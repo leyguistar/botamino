@@ -1,0 +1,5 @@
+uso: /top [n] [diaro|semanal|mensual|total|todos]: muestra los usuarios que mas enviaron mensajes
+Ejemplos:
+/top 5 mensual: (top 5 mensual)
+/top 4: (todos los tops 4)
+/top semanal: (top 3 semanal)

@@ -1,0 +1,19 @@
+¿Que son los puntos y como se consiguen?
+
+Pues los puntos son por asi decirlo la moneda del bot.
+
+Con los puntos puedes comprar cosas de la tienda o desbloquear caracteristicas del bot como comandos o respuestas.
+
+¿Como se consiguen los puntos?
+
+Participando en los eventos y actividades del bot. Asi como consiguiendo logros. Si quieres ver los eventos de ahora puedes poner /eventos
+
+¿Se pueden comprar o canjear puntos por amino coins?
+
+No, los puntos del bot son un tema completamente aparte a las amino coins de amino por lo que no se pueden comprar por amino coins ni tampoco
+
+¿Porque existe este sistema si ya existen las amino coins?
+
+Porque el creador ley, no quiere que inviertan ninguna moneda en este bot ya que trata de mantenerlo lo mas gratis posible, a excepcion de las donaciones que son una gran ayuda.
+
+En cambio las actividades me parecen mas divertidas.

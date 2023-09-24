@@ -1,0 +1,5 @@
+usage: /top [n] [daily|weekly|monthly|total|all]: shows the users that sent more messages
+example:
+/top 5 monthly: (top 5 of the month)
+/top 4: (all tops 4)
+/top weekly: (top 3 of the week)

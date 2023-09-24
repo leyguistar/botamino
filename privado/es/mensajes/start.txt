@@ -1,0 +1,8 @@
+¡Hola!
+Soy un chat bot creado por ley para hacer amino mas entretenido.
+
+Comandos del chat privado:
+/ayuda : muestra ayuda del chat privado
+/info: informacion del bot
+
+El bot es un proyecto en constante desarrollo por lo que no te sorprendas de ver mas comandos agregados proximamente

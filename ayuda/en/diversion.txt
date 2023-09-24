@@ -1,0 +1,10 @@
+8ball: Answer a question with yes or no.
+audio: Sends an audio.
+audios: Show the list of audios.
+compatibility: Dice que tan compatible eres con otro usuario.
+horoscope: Te dice tu amor, salud, suerte y dinero.
+games: show the games. 
+playgame: Starts a game.
+rip: sends a RIP.
+ship: Ship 2 users.
+trap: sends a trap.

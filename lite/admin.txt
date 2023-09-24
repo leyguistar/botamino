@@ -1,0 +1,22 @@
+aceptar: Sirve para aceptar algo, puede ser, lider, curador o anfitrion de chat.
+apagar: Apaga el bot. Una vez apagado se tiene que prender con /activar.
+asesino: Elimina todos los mensajes que se envien en el chat.
+ban: Banea un usuario permanentemente del chat.
+borrar: Borra un mensaje.
+borrarM: Borra todos los mensajes de multimedia recientes, imagenes, stickers, audios.
+borrarN: Borra n mensajes.
+borrarU: Borra los mensajes recientes de un usuario.
+br: Borra un role de la comunidad.
+debug: Muestra informacion mas especifica de errores en el chat
+deshabilitar: Deshabilita un comando.
+funar: Pone usuarios en la lista negra, lo que hace que sus mensajes se borren.
+habilitar: Habilita un comando.
+kick: Saca un usuario del chat.
+liberar: quita el modo visualizacion.
+nsfw: activa o desactiva la deteccion de imagenes pornograficas.
+perdonar: saca a un usuario de la lista negra.
+permisos: cambia los permisos de un comando.
+reset: actualiza los cambios en el chat. Generalmente el bot lo hace automaticamente.
+seguro: pone el modo visualizacion.
+strike: sirve para dar strikes, pero estos strikes son a nivel de chat, no comunidad.
+trasferir: transfiere el anfitrion del chat o el dueño del bot.

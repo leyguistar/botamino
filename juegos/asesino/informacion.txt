@@ -1,0 +1,8 @@
+Bienvenido a mafia
+Este juego es relativamente nuevo cualquier bug reportarlo con /bug
+Para entrar /entrar
+Los mensajes de muerte por defecto se envian al chat pero si hay un narrador se envian al narrador
+Para narrar /narrar
+En este juego cada participante toma un rol
+Estan los civiles y la mafia.
+El de la mafia es matar a todos los civiles y el objetivo de los civiles es descubrir quien es la mafia y matarla.

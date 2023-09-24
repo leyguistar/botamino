@@ -1,0 +1,6 @@
+El alias es como un apodo que se le puede poner a un usuario. Y el bot se referira a este usuario con este apodo en todo momento.
+Para poner un alias es /alias @user alias por ejemplo para ponerle a alguien que se llame pedro el alias piedra seria /alias, tambien funciona citando un mensaje de esa persona
+/alias @user
+$
+Ahora para pobrar el alias puedes escribir /recibir @user o /ship @user1 @user2 o /kill @user incluso hay varios juegos en los que en vez del nombre de esta persona se usara su alias
+/recibir @user

@@ -1,0 +1,26 @@
+Crear es a mi parecer de los comandos mas importantes de todo el bot ya que una vez tienes un comando creado lo puedes usar en varias cosas como, eventos, metas, bievenidas, cronometro, programar, etc
+Para crear un comando primero debes escribir ese comando.
+Lo que pasa es que si escribes ese comando se va a ejecutar y probablemente no quieras que se ejecute en el momento, asi que para evitar eso puedes ponerle un punto al inicio del comando y el /crear lo ignorara
+Comencemos creando algo sencillo escribe algo entre asteriscos y envianlo al chat
+*se muere* &
+Cita el mensaje *se muere* asi como horita con /crear morir para crear un comando morir y despues pruebalo
+/crear morir^
+/morir
+$
+Ahora cualquiera que escriba /morir sera como si hubiera escrito *se muere*
+Esto esta bien pero el crear tambien permite a otros usar comandos como si fueran tu, pero para esto tienes que darle un nivel de permiso al comando
+Para esto seria /crear nombre nivel, por ejemplo para crear un comando op 0 seria /crear nombre 0
+*los observa* &
+/crear vigilar 0^
+/vigilar
+$
+Ahora no importa quien use /vigilar sera como si el creador estuviera escribiendo *los observa*, esto es util por ejemplo con el comando /load ya que cada load es unico de un usuario pero si creas un comando con /load y le pones un nivel de op todos podran usar ese load como si fueras tu
+A un comando creado tambien se le pueden agregar mas comandos y eso es con agregar
+Intenta agregarle algo mas al comando morir y pruebalo
+*esta muerto* &
+/agregar morir^
+/morir
+$
+Finalmente para borrar un comando es /eliminar
+/eliminar morir
+/eliminar vigilar

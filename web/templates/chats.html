@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<style type="text/css">
+	.chatbox{
+		float: left;
+	}
+	.icon {
+	    width: 40px;
+	    height: 40px;
+	    border-radius: 25px;
+	        border-top-left-radius: 25px;
+	        border-top-right-radius: 25px;
+	        border-bottom-right-radius: 25px;
+	        border-bottom-left-radius: 25px;
+	    flex-shrink: 0;
+	}
+	.hzXPna {
+	    margin: 0px 1em;
+	    font-weight: bold;
+	    font-size: 12px;
+	    text-overflow: ellipsis;
+	    white-space: nowrap;
+	    overflow: hidden;
+	}
+	.cGxQuM {
+	    display: flex;
+	    flex-flow: row wrap;
+	    -moz-box-align: center;
+	    align-items: center;
+	    -moz-box-pack: start;
+	    justify-content: flex-start;
+	    margin-left: -20px;
+	}
+	.bOgvri {
+	    display: flex;
+	    flex: 1 1 0%;
+	    height: 60px;
+	    -moz-box-align: center;
+	    align-items: center;
+	    -moz-box-pack: justify;
+	    justify-content: space-between;
+	    padding: 1em;
+	    border-radius: 5px;
+	    cursor: pointer;
+	}
+
+	.hPbmYh {
+	    display: flex;
+	    flex: 1 1 0%;
+	        flex-grow: 1;
+	        flex-shrink: 1;
+	        flex-basis: 0%;
+	    flex-direction: column;
+	    padding: 0px 0.5em;
+	        padding-top: 0px;
+	        padding-right: 0.5em;
+	        padding-bottom: 0px;
+	        padding-left: 0.5em;
+	    align-self: stretch;
+	}
+	body{
+		margin: 0;
+		padding: 0;
+		background: rgba(10,10,10,0.7);
+		font-family: sans-serif;
+
+	}
+	ul{
+		position: relative;
+		box-sizing: border-box;
+		padding: 10px;
+		margin: 100px auto 0;
+	}
+	ul li
+	{
+		display: flex;
+		background: rgba(255,255,255,.1);
+		padding: 10px 20px;
+		color: #fff;
+		margin: 5px 0;
+		transition: .5s;
+	}
+	ul li a div div span:nth-child(1){
+		width: 30px;
+	}
+	ul li a div div span:nth-child(2){
+		text-align: left;
+		align-self: left;
+		align-content: left;
+	}
+	ul li:hover{
+		background: #ff3772;
+		transform: scale(1.06);
+	}
+
+</style>
+<head>
+	<title>leybot chats</title>
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='estilos.css') }}">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</head>
+<body>
+	<h2>Tus chats:</h2>
+	<main>
+	<ul>
+	{% for chat in chats%}
+		<li>
+		<a href="chat/{{ chat['threadId'] }}">
+		<div class='bOgvri' >
+			<div class="cGxQuM">
+				<img src="{{ chat['icon'] }}" class="icon" size="40" radius="25">
+				{% if chat['title'] %}
+				<span class="hzXPna">{{ chat['title'] }}</span>
+				{% else %}
+				<span class="hzXPna">Sin nombre</span>
+				{% endif %}
+				<span class="hzXPna">{{ chat['membersCount'] }}</span>
+			</div>
+<!-- 			<h3>{{ chat['author']['nickname'] }}</h3>
+			<img src="{{ chat['author']['icon'] }}" class="icon"> -->
+		</div>
+		</a>
+		</li>
+	{% endfor %}
+	</ul>
+	</main>
+	<form method="GET" action="">
+		<label>Agregar otro:</label>
+		<input type="text" name="chatLink" placeholder="link" value="">
+		<input type="submit" name="r" value="agregar">
+	</form>
+</body>
+</html>

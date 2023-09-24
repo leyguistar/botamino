@@ -1,0 +1,3 @@
+[c]The bot is a project in constant development so it is constantly being updated.
+
+Updates for command, activity, and bots are published in the ley world community.

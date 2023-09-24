@@ -1,0 +1,5 @@
+This command configures the chat frames
+usage:
+/messageframe [n]: the upper and lower frame will be n and n
+/messageframe [n] [m]: the upper frame n and the lower frame m
+To see the frames is /messageframes

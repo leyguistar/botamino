@@ -1,0 +1,26 @@
+Estos comandos son para inciar juegos o ver los mismos.
+
+Dentro de los [] debe de ir el juego seleccionado 
+
+Comandos:
+
+/juegos: Muestra los juegos
+/jugar [juego]: Empieza el juego seleccionado
+
+Ejemplo
+
+/jugar vor
+
+Una vez el juego iniciado, estos seran los comandos
+
+op:
+/start: inicia el juego
+/pasar: pasa al siguiente turno
+/cancelar: cancela el juego
+/jugadores: muestra los jugadores
+
+jugador:
+/equipo [nombre]: se une a un equipo
+/puntos: muestra los puntos
+/entrar: entra en el juego
+/dejar: abandona el juego

@@ -1,0 +1,8 @@
+actividad: muestra los mensajes por minuto y el total de chats activos en los que esta este bot funcionando.
+bots: muestra los bots disponibles.
+comandos: muestra los comandos.
+dueño: muestra el dueño del bot.
+info: informacion sobre varios temas del bot.
+roles: muestra los roles creados en esta comunidad.
+strikes: muestra los strikes que hay en el chat.
+ver: muestra informacion de un usuario.

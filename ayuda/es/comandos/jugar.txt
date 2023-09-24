@@ -1,0 +1,5 @@
+Sirve para poner un juego
+uso:
+/jugar [nombre del juego]
+ejemplo:
+/jugar vor

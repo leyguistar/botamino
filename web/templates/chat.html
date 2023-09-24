@@ -1,0 +1,107 @@
+<html>
+  <head>
+    <title>{{ title }}</title>
+  </head>
+  <style type="text/css">
+    .oplevel{
+      size: "5";
+      background-color: rgba(30,30,30,0);
+    }
+    .activo{
+      color: green;
+    }
+    .apagado{
+      color: red;
+    }
+    .actualizando{
+      color: yellow;
+    }
+  </style>
+  <body bgcolor="white">
+    <img src="{{ chatThread['icon'] }}" alt="icon">
+    <h1 color="white">{{ title }}</h1> 
+    <h3>Estado del bot: </h3>
+    {% if estado == 1 %}
+    <h3 class='activo'>Activo completo</h3>
+    {% elif estado == 2 %}
+    <h3 class='activo'>Activo lite</h3>
+    <form action="" method="post">
+    <input type="submit" name="apagar" value="apagar" class='apagado'>
+
+    {% else %}
+    <h3 class='apagado'>apagado</h3>
+    <form action="" method="post">
+    <input type="submit" name="activar" value="activar" class='activo'>
+    {% endif %}
+    <div class="container">
+      <br>
+      <form action="" method="post">
+        <input type="text" placeholder="Mensaje de bienvenida" name="mensaje" value="{{
+          chat.mensaje }}">
+        <input type="number" class='marcos' name="mup" min=0 max=10 value="{{ chat.mup }}">
+        <input type="number" class='marcos' name="mdown" min=0 max=10 value="{{ chat.mdown }}">
+
+        <input class="btn btn-default" type="submit" name="submitbutton1" value="Guardar">
+      </form>
+    </div>
+<!--     <div>
+      <h2>Anfitrion: {{ anfi.nickname }}</h2>
+      <h3>Nivel: {{ anfi.level }}</h3>
+      <img src="{{ anfi.icon }}">
+    </div> -->
+    <div>
+      <h2>Comandos:</h2>
+      <form action="" method="post">
+        <table border = 1>
+          <tr>
+            <th>Comando</th>
+            <th>Nivel</th>
+          </tr>
+           {% for c in comandos %}
+              <tr>
+                 <th> {{ c }} </th>
+                 <td> 
+                  <input type="number" size="3" style="align-content: center;" name="{{ c }}" min=-1 max=2 value="{{ comandos[c] }}">
+                 
+                  </td>
+              </tr>
+           {% endfor %}
+        </table>
+        <input type="submit" name="submitbutton2" value="Guardar">
+      </form>
+      <h3>Crear respuesta</h3>
+      <p>Aqui puedes configurar para que el bot responda cuando alguien ponga cierto mensaje</p>
+      <form action="" method="POST">
+        <label>Cuando alguien escribe:</label>
+        <input type="text" name="input" required="required" placeholder="mensaje" maxlength="100">
+        <br>
+        <label>El bot responde</label>
+        <input type="text" name="output" required="required" placeholder="respuesta" maxlength="200">
+        <br>
+        <input type="submit" name="submitbutton3" value='Crear respuesta'>
+      </form>
+    </div>
+        {% if mensajes %}
+        <table border = 1>
+          <tr>
+            <th>Mensaje</th>
+            <th>Respuesta</th>
+          </tr>
+           {% for id,m,r in mensajes %}
+              <tr>
+                 <td> {{ m }} </td>
+                 <td> 
+                    {{ r }}                 
+                  </td>
+                  <td>
+                    <form action="" method="POST">
+                      <button type="submit" value="{{ id }}" name="borrar">Borrar</button>
+                    </form>                    
+                  </td>
+              </tr>
+           {% endfor %}
+        </table>
+        {% endif %}
+
+  </body>
+</html>

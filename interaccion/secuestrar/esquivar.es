@@ -1,0 +1,1 @@
+%s es mas veloz y logra logra evitar que %s le secuestre /huir

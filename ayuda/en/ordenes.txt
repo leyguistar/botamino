@@ -1,0 +1,12 @@
+Este comando sirve para darle ordenes a tu waifu
+Poner /w [orden]
+ataca: ataca otras waifus
+bienvenida: La waifu reemplaza al bot y empieza a dar las bienvenidas
+saluda: Le manda un saludo a alguien o en general
+firmame: Haces que la waifu comente en tu muro.
+
+Por ejemplo:
+
+/w firmame Te amo eres el mejor
+
+La waifu comentara eso en tu muro

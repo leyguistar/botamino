@@ -1,0 +1,1 @@
+%s no se deja comer ni acepta la invitacion de %s

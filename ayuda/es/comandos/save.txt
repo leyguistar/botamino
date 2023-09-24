@@ -1,0 +1,5 @@
+Sirve para guardar algo, ya sea una imagen, un texto, un audio.
+uso:
+/save [nombre]: lo que se quiere guardar tiene que estar mencionado en el mensaje
+
+Para cargarlo se usa /load

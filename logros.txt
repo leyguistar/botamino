@@ -1,0 +1,62 @@
+1. El origen: entrar a leyworld. 100
+2. ⊱◟᭝ 🎁̫⤷ compras ᦑ '᭢: Comprar en la tienda. 50
+3. Me gusta mas asi: Configurar la bienvenida. 100
+4. Este como que no: Deshabilitar un comando. 50
+5. Me lo quedo: Hacer que un bot te siga. 50
+6. No tienes derechos: funar a alguien. 50
+7. Te perdono: perdonar a alguien funado. 50
+8. Pussydestroyer69: Ponerle un alias a alguien. 50
+9. Este me lo vi: Buscar un anime +18. 100
+10. Help!: Usar el comando de ayuda. 50
+11. Interesante xd: Escuchar todos los audios. 150
+12. Lo intentaste: Intentar usar un comando para el cual no tienes permisos. 50
+13. No gracias: Esquivar algo a tiempo. 100
+14. ¡Claro que si!: Corresponder algo a tiempo. 100
+15. Quiero saber mas: Usar el comando info. 50
+16. Pon musica: Poner una cancion. 50
+17. Critico: Dar una opinion del bot. 50
+18. Mejor asi: Cambiar los permisos de un comando. 100
+19. Dar autoridad: Cambiar el op de alguien. 50
+20. Fujoshi: Shipear a 2 usuarios. 50
+21. Aumentemos el nivel: Iniciar una videollamada. 50
+22. Para ti: Darle algo a alguien. 50
+23. Me gusta: Aceptar algo de alguien. 50
+24. No lo quiero: Rechazar algo de alguien. 50
+25. ¿Que hay?: Ver los eventos del bot. 100
+26. Si claro: Hacer un edit de wikipedia. 100
+27. Necesidades: mandar el bot a fapearse. 100
+28. Tiene dueño: ver quien es el dueño del bot. 50
+29. Pubertad: usar cum 10 veces seguidas. 200
+30. Se multiplican: Meter a otro bot en un chat. 100
+31. Re otaku: usar el comando decir para hacer que el bot diga onichan. 200
+32. ¡¡¡Aqui no!!!: Intentar usar un comando de ecchi bot en un chat publico. 50
+33. Policia: meter a 10 usuarios a la carcel. 100
+34. Cuantos mensajes: Ver la actividad del bot. 50
+35. Que suerte: Que te salgan 5 monedas en la loteria. 100
+36. Empecemos: Autorizar un bot en tu chat. 50 
+37. De los primeros: Ser de los primeros 1000 usuarios en leyworld. 300
+38. Consiguete una vida: enviar mas de 10000 mensajes en un chat en un solo dia. 500 
+39. Yo me anoto: participar en un evento del bot. 500
+40. No tan rapido: Usar los comandos del bot tan rapido que salga un mensaje de espera. 100
+41. Ta malo: Reportar un bug. 50
+42. uy 😳: Invocar a echi bot. 100
+43. En privado: Abrir privado con un bot. 50
+44. jaja muy gracioso: Enviar un mensaje especial y ser detectado como otro bot. 1
+45. Bye bye: Configura la despedida. 50
+46. Demasiadas canciones: Hacer una lista de reproduccion con mas de 20 canciones. 200
+47. Mas suerte la proxima: No ganar nada en la loteria. 50
+48. Bajando del trono: Darle al anfitrion al bot. 100
+49. ¿De verdad era necesario?: Usar @todos para mencionar a todos en el chat. 50
+50. Me gusta este: Votar por un perfil para el bot. 50 
+51. Ganar: Ganar un concurso en leyworld. 1000
+52. Licenciado: Solicitar una licencia. 50
+53. Terrible: Pedirle un chiste al bot y terminar desepcionado porque son re malos. 50
+54. Gracias crack: usar una curiosidad para aprender un poco mas del mundo. 50
+55. Permiso concedido: Solicitar una licencia para usar el bot. 100
+56. Solo de amigos: Dar un besito en la mejilla. 50
+57. ¿¡QUE INTENTAS!?: Intentar dar un beso en un lugar no apto para todos. 100
+58. Me arriesgo: buscar con telefono a alguien random con quien hablar. 100
+59. mochi mochi: Que te respondan una llamada. 100
+60. Que nervios: Que te responda una llamada alguien de otra comunidad. 150
+61. ahora quien es el admin 😏: Licencia para tener intimidad con la persona acargo. 100
+62. Oh no creo que lo dañe: Deshabilitar el comando habilitar. 50

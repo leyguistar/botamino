@@ -1,0 +1,7 @@
+Este comando sirve para ver la ayuda general del bot o ayuda sobre un comando en especifico
+/ayuda: muestra ayuda general
+/ayuda [comando]: muestra ayuda sobre un comando (si posee)
+/ayuda [topico]: ayuda sobre un grupo de comandos
+Por ejemplo:
+/ayuda ayuda
+/ayuda general

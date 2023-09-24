@@ -1,0 +1,6 @@
+Change the frame of the user's personal messages
+usage:
+/specialmessageframe [n]: Put a frame in your special messages
+Example:
+/specialmessageframe 13
+use with /special

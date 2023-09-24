@@ -1,0 +1,7 @@
+dejar: sirve para dejar algo o a alguien.
+entrar: sirve para entrar en algo o en alguien.
+opinion: sirve para dar tu opinion del bot.
+seguir: hace que el bot siga a alguien.
+sigueme: hace que el bot te siga.
+sugerencia: sirve para dar una sugerencia.
+test: sirve para hacer distintas pruebas.

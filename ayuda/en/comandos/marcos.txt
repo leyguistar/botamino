@@ -1,0 +1,1 @@
+This command shows all the frames that the bot has for chat messages. The frames are sent to the private because there are a lot

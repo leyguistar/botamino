@@ -1,0 +1,6 @@
+uso: /antispam [links|imagenes|stickers|texto|flood]
+/antispam links: borra todos los links de amino que se envien en el chat
+/antispam imagenes: borra todo lo que sea imagenes
+/antispam stickers: borra los stickers
+/antispam flood [n]: borra mensajes de texto que hayan sido repetidos mas de n veces en los ultimos 100 mensajes
+/antispam texto [texto de ejemplo]: borra todos los mensajes que tengan "texto de ejemplo" en el mensaje

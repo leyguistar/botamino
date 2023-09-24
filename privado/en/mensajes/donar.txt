@@ -1,0 +1,11 @@
+[ci] Why donate?
+Well, nothing is free, in addition to the effort and time that you have to put into a bot, which seems to be worth nothing these days. It also requires a powerful server to run fast all the time.
+For example, Discord bots work thanks to many people who donate to help keep it running
+
+[ci] Did the bot stop working? Is it slow ?
+Many times this is due to an overload of the servers, the solution to this often requires money. There are times that even some commands are disabled to avoid the server overload, such as games. Here is a video in case you want to know more about it:
+https://www.youtube.com/watch?v=YNDZZmq3t8U
+
+[ci] Instead of insulting the bot when it is slow or does not work as almost all users do, why don't you help improve it by donating?
+
+Can't donate but still want to help? Come to ley world! Here you can help in several distant ways to keep the bot in amino and help it grow

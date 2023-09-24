@@ -1,0 +1,1 @@
+%s acepta bailar con %s y los 2 se ponen a bailar juntos

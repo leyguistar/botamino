@@ -1,0 +1,29 @@
+Crear comandos es algo exclusivo de la version premium del bot.
+
+Para crear un comando primero se debe seleccionar (haciendo reply) el comando que va a correr cuando se use el nuevo comando y despues ponerle un nombre al nuevo comando
+Ejemplo:
+/se come una hamburguesa
+
+*reply a "/se come un hamburguesa"*
+/crear comerHamburguesa
+
+y ahora
+/comerHamburguesa en realidad es el comando "/se come una hamburguesa"
+
+Una ves hecho un comando a este se le pueden agregar mas cosas con /agregar
+
+Ejemplo:
+/le vomita a @alan
+
+*reply a "/le vomita a @alan"*
+/agregar comerHamburguesa
+
+y ahora si por ejemplo alguien con alias "kirito" poner /comerHamburguesa aparecera:
+kirito se a comido una hamburguesa
+kirito le vomita a alan
+
+Los comandos creados tambien se pueden usar en los eventos, para que cuando un evento llegue a su fecha limite este comando se active
+
+Permisos: los comandos mantienen el nivel de permisos del que los usa, por ejemplo si un op 2 crea un comando que use /asesino (comando de nivel 2) si un op 0 intenta usar este comando el bot no lo dejara.
+
+En los eventos los permisos son del usuario que puso el evento 

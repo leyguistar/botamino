@@ -1,0 +1,25 @@
+tips: enable or disable the message when someone give props in chat.
+add: add more commands to a created command.
+alias: assign someone a alias.
+bot: switch bot.
+wc: add welcome commands.
+rwc: remove welcome commands.
+tc: add commands when someone give props.
+rtc: remove commands when someone give props.
+config: shows the chat configuration.
+create: used to create new commands or responses.
+deop: restart someone's op.
+deletecommand: delete a command.
+delay: change the wait time between commands per user.
+welcomeLetter: nothing useful.
+messageframe: change the frame of the chat messages.
+especialmessageframe: change the frame of the special message.
+maxstrikes: set the maximum strikes before the ban.
+messages: shows the messages that a user has sent in the chat.
+otherBots: disable or enable the detection of other bots.
+op: Review or change a user's permission level.
+badge: adds a badge to the chat.
+messageprefix: change the prefix of the messages.
+messageType: change the message type of the bot.
+voices: Shows the available voices for the bot.
+voice: Change the bot's voice.

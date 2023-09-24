@@ -1,0 +1,19 @@
+Las tags son etiquetas que se le ponen a los usuarios.
+Las tags pueden o no tener un valor 
+
+Para poner una tag sin valor:
+/tag @user !feo
+/tag @user2 !guapo
+
+Para poner una tag con valor:
+
+/tag @user !poder:10
+/tag @user2 !belleza:-9999
+
+Buscar usuarios con algo tag en un chat:
+/tag ![tag]
+ejemplo:
+/tag !guapo
+
+Ver las tag de un usuario:
+/tag @user

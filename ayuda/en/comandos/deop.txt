@@ -1,0 +1,3 @@
+reset op
+usage:
+/deop @user: resets user op

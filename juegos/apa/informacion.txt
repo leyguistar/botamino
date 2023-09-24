@@ -1,0 +1,3 @@
+Bienvenido a adivina el anime o el personaje
+[c]Una vez iniciado apareceran varias imagenes con una pregunta
+Para ganar debes responder correctamente las preguntas relacionadas a la imagen

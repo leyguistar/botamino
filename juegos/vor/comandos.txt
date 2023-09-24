@@ -1,0 +1,5 @@
+Pedir una pregunta: /v
+
+Pedir un reto: /r
+
+Para desactivar o activar los turnos: /libre [si|no]

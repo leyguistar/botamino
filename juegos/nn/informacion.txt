@@ -1,0 +1,10 @@
+[cbi]Bievenidos a verdad o reto.
+
+Este juego consiste en responder una pregunta o hacer un reto.
+
+El bot dira el nombre de un usuario y ese usuario tiene que mandar un mensaje diciendo /v o /r dependiendo de si quiere verdad o reto
+Inmediatamente despues se dira el nombre proximo jugador que le toque pero por favor que este espere a que el anterior termine el reto o la pregunta
+Una vez iniciado el juego los que no juegan siguen teniendo la posibilidad de unirse
+
+Para ver los comandos de juego usar /c
+Para ver los informacion del juego usar /inf

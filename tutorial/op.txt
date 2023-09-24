@@ -1,0 +1,17 @@
+Para poder usar el bot el usuario tiene que tener permisos suficientes. Los permisos del bot son algo llamada "op" para ver tu nivel de op pon /op
+Escribe en el chat /op
+/op
+$
+Los op van del 0 al 3. Por defecto el anfitrion tiene op 3 y los coanfitriones tiene op 2, cualquier otro op debe ser dado.
+Alguien que tiene un op puede dar op de nivel inferior a otro usuario. Por ejemplo el anfitrion puede dar op 2,1 y 0 los coa pueden dar op 1 y 0 y alguien de op 1 puede dar op 0
+Para dar op de nivel 0 es /op 0 @user  (tienes que mencionar o citar un mensaje de esa persona)
+/op 0 @
+$
+Una vez tienes op para ver los comandos que tienes disponibles segun tu nivel de poder puedes usar /disponible y aparecera una lista con todos los comandos que puedes usar
+/disponible
+$
+Para quitar op el comando es /deop @user pero solo le puedes quitar el op a alguien con un op inferior al tuyo, osea que los coa no se pueden quitar el op entre ellos.
+/deop @
+$
+Para ver el nivel de op que tiene una persona es /op @user la diferencia entre este comando y dar op es que cuando das op tienes que decir el nivel de op que das 0, 1 o 2 peor cuando verificas el op de alguien no pones numero
+/op @

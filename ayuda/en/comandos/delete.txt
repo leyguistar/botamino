@@ -1,0 +1,3 @@
+Used to delete things that have been saved with /save
+usage:
+/delete [name]

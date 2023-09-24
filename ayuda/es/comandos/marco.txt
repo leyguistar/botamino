@@ -1,0 +1,5 @@
+Este comando configura los marcos del chat
+usos:
+/marco [n]: el marco superior e inferior sera n y n
+/marco [n] [m]: el marco superior n y el inferior m
+Para ver los marcos es /marcos

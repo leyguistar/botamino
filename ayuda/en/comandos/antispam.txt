@@ -1,0 +1,6 @@
+uso: /antispam [links|images|stickers|text|flood]
+/antispam links: delete old de amino links in the chat
+/antispam images: delete images
+/antispam stickers: delete stickers
+/antispam flood [n]: delete text messages that have been repeated more than n times 
+/antispam text [example text]]: delete all messages with "example text" in it

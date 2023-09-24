@@ -1,0 +1,1 @@
+%s se enconde de %s

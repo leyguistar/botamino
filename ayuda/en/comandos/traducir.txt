@@ -1,0 +1,3 @@
+usage: /translate [@user] : translate from some language to english, can be a message or a user
+/translate @user: translate every message a user sends
+To stop translation /notranslate

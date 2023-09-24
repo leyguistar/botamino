@@ -1,0 +1,1 @@
+%s le hace un cum shot a %s

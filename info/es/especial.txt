@@ -1,0 +1,27 @@
+El bot normalmente usa un tipo de mensaje especial que es transparente, aunque esto no se ve en algunas apps.
+
+Los usuarios pueden crear estos mensajes especiales con /especial
+
+Por ejemplo:
+/especial Este es un mensaje especial
+
+*este es un mensaje especial*
+
+El mensaje por defecto no tiene marcos pero cada usuario puede poner sus marcos personales que aparezcan en su mensaje especial con /marcoE
+Por ejemplo:
+/marcoE 65
+/especial Mensaje con marcos
+★◥▬▭▭▭▭▭◳◺✩◿◰▭▭▭▭▭▬◤★
+
+Mensaje con marcos
+
+★◢▬▭▭▭▭▭◱◸☆◹◲▭▭▭▭▭▬◣★
+
+y los marcos se pueden combinar por ejemplo:
+/marcoE 65 13
+/especial mensaje con marcos combinados
+★◥▬▭▭▭▭▭◳◺✩◿◰▭▭▭▭▭▬◤★
+
+mensaje con marcos combinados
+
+∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎

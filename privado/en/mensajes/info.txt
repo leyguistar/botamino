@@ -1,0 +1,3 @@
+The bot is an independent project made by ley.
+This project aims to make amino more entertaining by adding new options to chats.
+To cancel messages /exit

@@ -1,0 +1,25 @@
+agradecer: activa o desactiva el mensaje cuando alguien dona en el chat.
+agregar: agrega mas comandos a un comando creado.
+alias: le asigna un apodo a alguien.
+bot: cambia de bot.
+cb: agrega comandos a la bienvenida.
+cbr: quita comandos de la bienvenida.
+cd: agrega comandos a las donaciones.
+cdr: quita comandos de las donaciones.
+config: muestra la configuracion del chat.
+crear: sirve para crear nuevos comandos o respuestas.
+deop: reinicia el op de alguien.
+eliminar: elimina un comando.
+espera: cambia el tiempo de espera entre comandos por usuario.
+letraBienvenida: cambia la letra del mensaje de /recibir.
+marco: cambia el marco del chat.
+marcoE: cambia el marco del mensaje especial.
+maxstrikes: configura el maximo de strikes antes del ban.
+mensajes: muestra los mensajes que ha enviado un usuario en el chat.
+otrosBots: desactiva o activa la deteccion de otros bots.
+op: revisa o cambia el nivel de permisos de un usuario.
+placa: le agrega una placa al chat.
+prefijo: cambia el prefijo de los mensajes.
+tipoMensaje: cambia el tipo de mensaje del bot.
+voces: Muestra las voces disponibles del bot.
+voz: Cambia la voz del bot.

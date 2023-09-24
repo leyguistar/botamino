@@ -1,0 +1,11 @@
+Bienvenido a adivina la pelicula con emojis
+Para entrar al juego usar /entrar
+Para salir /dejar
+Para que un anfi saque a alguien /sacar @
+Para mostrar Puntuaciones actuales /puntos
+Para empezar /start
+Para cancelar /cancelar (muestra las puntuaciones hasta ese momento)
+Para ver los jugadores /jugadores
+Para unirte a un equipo /equipo [nombre del equipo]
+Para poner un limite de tiempo por turno /limite [n] donde n es la cantidad de segundos
+Todos los que esten jugando pueden escribir el nombre de la pelicula que creen que es y la primera persona que acierte se llevara un punto, al final del juego apareceran las puntuaciones y el ganador

@@ -1,0 +1,27 @@
+Las listas son muy utiles cuando se trata de llevar un orden o un lista de cosas
+Por ejemplo hagamos una lista de un chat de audiciones
+Para empezar crea una lista cuyo nombre sea cantantes y el discriminante #yocanto
+/lista crear cantantes|#yocanto
+$
+Ahora cada que una perna escriba #yocanto sera registrada en la lista
+Ademas de eso puede agregar un mensaje por ejemplo
+##yocanto chachacha
+Despues de que se llene algo la lista puedes revisar con /lista ver nombre de la lista
+/lista ver %
+$
+Para sacar desde los primeros puestos de la lista es /lista limpiar n nombre de la lista
+Por ejemplo limpia los 2 primeros y despues revisa la lista
+/lista limpiar 2 %
+/lista ver %
+$
+Ademas del #yocanto una lista puede tener varios descriminantes para registrar usuarios
+Para agregar uno seria /lista usar cantantes|*yotambien
+/lista usar %
+$
+Si por ejemplo quieres que la lista deje de registrar un descriminantes es con /lista nousar 
+/lista nousar cantantes|#yocanto
+$
+Para ver las listas creadas es /listas
+Y finalmente para borrar una lista es /lista borrar nombre de la lista
+Como consejo si es un chat de audiciones puedes crea un comando "/lista crear cantantes|#yocanto" que de una cree la lista de cantantes
+/lista borrar cantantes

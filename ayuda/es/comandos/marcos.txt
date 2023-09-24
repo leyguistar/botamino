@@ -1,0 +1,1 @@
+Este comando muestra todos los marcos que posee el bot para los mensajes del chat. Los marcos se envian al privado porque son muchos

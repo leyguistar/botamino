@@ -1,0 +1,10 @@
+8ball: Responde a preguntar con positivo o negativo, inspirado en la bola adivina 8ball.
+audio: Manda un audio de la lista de audios del bot.
+audios: Muestra la lista de audios.
+compatibilidad: Dice que tan compatible eres con otro usuario.
+horoscopo: Te dice tu amor, salud, suerte y dinero.
+juegos: Muestra los juegos. 
+jugar: Inicia un juego.
+rip: Manda un mensaje de RIP.
+ship: Shipea a 2 usuarios.
+trapito: manda un trapito porque con pito es mas rico.

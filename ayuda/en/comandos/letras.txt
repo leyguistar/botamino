@@ -1,0 +1,1 @@
+This command is used to see the fonts that the bot has for the personalized welcome.

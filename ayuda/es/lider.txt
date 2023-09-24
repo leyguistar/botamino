@@ -1,0 +1,5 @@
+curador: convierte a un usuario en curador.
+lider: convierte a alguien en lider.
+role: crea un role.
+setrole: le asigna un role a un usuario.
+unsetrole: le quita el role a un usuario.

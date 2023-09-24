@@ -1,0 +1,6 @@
+Este comando sirve para controlar los niveles de permisos del bot
+usos:
+/op: muestra tu nivel actual de permisos
+/op @user: muestra el nivel de permisos de user
+/op [n] @user: le da un op de nivel n a user
+/op [n]: muestra todos los usuarios que tienen op de nivel n

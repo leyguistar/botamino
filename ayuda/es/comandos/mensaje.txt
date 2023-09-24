@@ -1,0 +1,7 @@
+Este comando sirve para cambiar el mensaje de bienvenida del chat o el mensaje de donaciones
+uso:
+/mensaje bienvenida [mensaje]
+ejemplo:
+/mensaje bienvenida bienvenidos sean todos a este chat respeten las reglas y diviertanse
+/mensaje donacion [mensaje]
+/mensaje donacion gracias por las monedas

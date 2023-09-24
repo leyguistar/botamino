@@ -1,0 +1,12 @@
+Para comenzar este juego todos los que quieran jugar tienen que escribir /entrar en el chat
+Este juego tiene 2 modalidades las cuales puede eligir cualquiera de los anfis.
+En el modo libre cualquiera puede pedir verdad o reto y no necesariamente hay un orden para usar este modo se usa 
+/libre on activa modo libre
+/libre off desactiva el modo libre
+El bot dira el nombre de un usuario y este tiene que poner /listo para que le envien una imagen de reto, en seguida se enviara el nombre del siguiente usuario, una vez el usuario actual haya terminado el reto el siguiente tiene que poner /listo:
+para dejar el juego un jugador debe poner /dejar Si este se va de la llamada o no responde un anfi puede sacarlo poniendo /sacar @ 
+Para ver los jugadores /jugadores
+Para poner un limite de tiempo por turno /limite [n] donde n es la cantidad de segundoss
+Una vez iniciado el juego los que no juegan siguen teniendo la posibilidad de unirse
+/retos referenciando un gif para usar ese gif como los retos
+/start para iniciar el juego

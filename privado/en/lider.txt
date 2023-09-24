@@ -1,0 +1,8 @@
+[c] Leader commands:
+enable: disables a command in all the public chats of this community, however the commands will still works in private chats.
+disable: enable a command in the community.
+accept: accept [leader|curator] makes the bot a leader or curator.
+config: shows the bot's current configuration in the community.
+message: [wall|private] configures the bot's default welcome on the wall or when someone opens private chat.
+
+[ci] Note: There are more exclusive commands for leaders but these are intended for group chats such as the staff chat

@@ -1,0 +1,4 @@
+This command is used to put a welcome letter in the custom welcome of the bot
+usage: /welcomeLetter [n]
+Example
+/welcomeLetter 13

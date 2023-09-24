@@ -1,0 +1,3 @@
+Este comando sirve para borrar una cierta cantidad de mensajes desde el ultimo.
+Por ejemplo para borrar los ultimos 5 mensajes seria
+/borrarN 5

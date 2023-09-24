@@ -1,0 +1,10 @@
+[c]⟣──────⟨ ⟡ ⟩──────⟢
+[c]Bienvenido a leyworld %s. 
+[c]Al entrar consigues el logro.
+
+[cb]El origen
+[c]Entrar en leyworld
+
+[c]Ganas 100 puntos
+
+[c]━─━────༺༻────━─━

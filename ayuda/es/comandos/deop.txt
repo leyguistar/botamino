@@ -1,0 +1,3 @@
+Sirve para quitar el op
+uso:
+/deop @user: le quita el op a user

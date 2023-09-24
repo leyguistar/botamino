@@ -1,0 +1,4 @@
+Este comando sirve para borrar los mensajes que cierto usuario envio (por ejemplo un trolo)
+Para usar es /borrarU @user
+Ejemplo:
+/borrarU @pablo

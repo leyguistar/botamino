@@ -1,0 +1,3 @@
+Los comandos de rol son comandos creados para guardar fichas.
+
+Por ejemplo de lugares o personas.

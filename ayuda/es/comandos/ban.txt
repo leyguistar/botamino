@@ -1,0 +1,5 @@
+Este comando sirve para sacar usuarios del chat pero sin la posibilidad de que vuelvan a entrar
+uso:
+/ban @user
+ejemplo:
+/ban @pablo

@@ -1,0 +1,1 @@
+%s tiene miedo de %s

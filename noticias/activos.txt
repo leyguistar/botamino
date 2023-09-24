@@ -1,0 +1,8 @@
+La verdad estoy :0 
+Desde que empezo el proyecto del bot hasta ahora el bot a registrado mas de 100 chats publicos de los cuales aunque mas de la mitad han muerto 50 de ellos nada mas se registraron en estas ultimas 2 semanas
+Me alegra mucho que les guste el bot :D
+Volvieron a saturar el servidor xd
+Incluso con la regulacion de 1 hora en cada chat, como cada vez son mas chats mas se acumulan
+Para este momento pensaba tener mas apoyo para comprar un servidor mas capaz pero la verdad es que todavia siguen siendo solo 3 personas las que apoyan el proyecto asi que de momento no podre comprar un servidor mas potente que soporte todos los chats al mismo tiempo. Pero no es el caso por el momento ¡solo 3 personas! me han apoyado en patreon.
+Por lo que para solucionar esto ahora el /starbot revisara cuantos chats estan activos, y incluso si el bot esta saturado tendran que esperar a que un chat lo apague o se les acabe el tiempo.
+¡Gracias a todos por usar el bot!

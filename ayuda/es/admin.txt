@@ -1,0 +1,3 @@
+Los comandos de admin son comandos que normalmente solo puede usar un coanfitrion, anfitrion.
+Estos modifican cosas del chat como el anuncio o el fondo.
+Para que el bot pueda usar estos comandos tiene que ser coanfitrion del chat.

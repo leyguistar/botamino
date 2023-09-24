@@ -1,0 +1,1 @@
+%s se burla de %s

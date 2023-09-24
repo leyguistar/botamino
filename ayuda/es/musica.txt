@@ -1,0 +1,12 @@
+join: mete al bot al chat de voz.
+leave: hace que el bot deje el chat de voz.
+llamada: empieza una llamada.
+pause: pausa lo que esta en reproduccion.
+play: pone una cancion.
+playing: muestra lo que esta sonando.
+proyeccion: empieza una proyeccion.
+queue: muestra la cola de reproduccion.
+remove: saca un usuario del chat de los participantes de voz.
+skip: salta la cancion actual.
+videollamada: empieza una videollamada.
+volumen: cambia el volumen.

@@ -1,0 +1,4 @@
+Este comando sirve para poner una letra de bienvenida en la bienvenida personalizada del bot
+uso: /letraBienvenida [n]
+Ejemplo
+/letraBienvenida 13

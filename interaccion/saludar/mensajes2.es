@@ -1,0 +1,1 @@
+%s says hi to %s

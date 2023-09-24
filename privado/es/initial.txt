@@ -1,0 +1,2 @@
+Hola ^^ soy un bot ¿Quieres usarme? usa /start o /ayuda
+To set the language to english you can use /idioma en

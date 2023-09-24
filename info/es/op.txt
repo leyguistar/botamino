@@ -1,0 +1,9 @@
+El bot tiene diferentes niveles de permisos para que los usuarios abusen del bot
+
+Para que alguien pueda usar el bot tiene que tener minimo op 0
+
+Un op n puede dar o remover op de un nivel inferior a cualquier miembro del chat
+
+El anfi tiene el nivel de op mas alto siempre y es el unico que puede apagar o prender el bot
+
+Para ver el nivel actual de op usar /op

@@ -1,0 +1,5 @@
+Sirve para cambiar o ponerle un apodo a alguien
+uso:
+/alias @user [el apodo]
+ejemplo:
+/alias @user el pepe

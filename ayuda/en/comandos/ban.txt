@@ -1,0 +1,5 @@
+This command ban users
+usage:
+/ban @user
+example:
+/ban @pablo

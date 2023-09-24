@@ -1,0 +1,12 @@
+Los comandos de waifu permiten buscar waifus o husbandos.
+/waifu muestra una waifu
+/husbando un husbando
+/like le da un corazon a la ultima waifu que aparecio
+/trash indica que la waifu es basura
+/unlike y /untrash revierten tu voto
+
+Ademas se pueden tener waifus en tu harem.
+/harem muestra las waifus y husbandos que tienes
+/reclamar reclama la ultima waifu que aparecio
+
+/waifuwiki muestra informacion mas precisa de la ultima waifu, junto con un link a una wiki con imagenes de la waifu

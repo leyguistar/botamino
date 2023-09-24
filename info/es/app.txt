@@ -1,0 +1,3 @@
+El bot tiene una app desde la cual se puede controlar y configurar. Esta app esta disponible para la version premium del bot.
+Si quieres saber mas al respecto puedes ver este video. 
+https://www.youtube.com/watch?v=JwuL6pCWyLU

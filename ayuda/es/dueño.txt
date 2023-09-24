@@ -1,0 +1,10 @@
+app: cosas relacionadas a la app.
+autorizados: muestra quienes estan autorizados para usar el bot en el chat.
+autorizar: autoriza el bot, o a un usuario.
+bio: cambia la bio del bot.
+copiar: copia a un usuario.
+descripcion: cambia la descripcion del bot.
+desautorizar: desautoriza el bot, o un usuario.
+icon: cambia el icon del bot.
+nickname: cambia el nickname del bot en la comunidad.
+nombre: cambia el nombre del bot en global.

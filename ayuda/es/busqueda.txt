@@ -1,0 +1,16 @@
+anime: busca informacion de un anime.
+chica: busca una chica anime.
+danbooru: busca en danbooru.
+emision: muestra los animes en emision segun el dia.
+endings: busca los endings de un anime.
+gif: busca un gif.
+loli: busca una loli.
+lyrics: busca las liricas en romanji de una cancion anime
+letra: busca la letra de una cancion.
+manga: busca informacion de un manga.
+miau: busca un gato.
+moe: busca algo moe.
+openings: busca los openings de un anime.
+personaje: busca un personaje de anime.
+temporada: muestra los animes de una temporada de anime.
+youtube: busca un video en youtube.

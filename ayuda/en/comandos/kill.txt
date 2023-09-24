@@ -1,0 +1,3 @@
+This command kills a user. It's a reference to minecraft's /kill
+usage:
+/kill @user

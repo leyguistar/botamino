@@ -1,0 +1,11 @@
+prefijo: lo que va antes de todo mensaje del bot, por defecto [c]
+
+agradecer: mensaje de agradecimiento cuando alguien dona al chat
+
+voz: voz del bot
+
+tipoMensaje: El tipo de mensaje de bot
+
+nsfw: configura si el bot detecta o no imagenes indebidas
+
+espera: tiempo de espera entre cada comando por usuario del bot, para evitar saturacion del chat

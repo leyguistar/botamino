@@ -1,0 +1,5 @@
+Sirve para repetir varias veces un mensaje
+uso:
+/repetir [n]: Repite n veces un mensaje, el mensaje a repetir tiene que estar mencionado
+ejemplo:
+/repetir 10

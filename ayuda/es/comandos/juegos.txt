@@ -1,0 +1,1 @@
+Muestra los juegos que tiene el bot

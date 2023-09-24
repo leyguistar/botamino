@@ -1,0 +1,5 @@
+Este comando sirve para que el bot envie un mensaje con los marcos del usuario.
+Por ejemplo:
+/especial este es un mensaje
+Va a hacer que el bot diga "este es un mensaje"
+Para configurar los marcos de ese mensaje es /marcoE

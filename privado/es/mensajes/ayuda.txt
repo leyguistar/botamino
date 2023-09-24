@@ -1,0 +1,14 @@
+[cu]ᴀʏᴜᴅᴀ ᴅᴇʟ ᴄʜᴀᴛ ᴘʀɪᴠᴀᴅᴏ:
+[c]ᴘᴀʀᴀ ᴠᴇʀ ᴛᴏᴅᴏꜱ ʟᴏꜱ ᴄᴏᴍᴀɴᴅᴏꜱ:
+/comandos
+
+[cu]ᴘᴀʀᴀ ʟʟᴇᴠᴀʀ ᴇʟ ʙᴏᴛ ᴀ ᴜɴ ᴄʜᴀᴛ ᴏ ᴄᴏᴍᴜɴɪᴅᴀᴅ:
+[c]Pasale el link de la comunidad, o el chat, tambien puedes hacer que te siga en esta comunidad escribiendo /sigueme
+
+[cu]ᴘᴀʀᴀ ɪɴꜰᴏʀᴍᴀᴄɪᴏɴ ᴀᴄᴇʀᴄᴀ ᴅᴇʟ ʙᴏᴛ:
+/info
+
+[ui]¿ᴅᴇ ᴅᴏɴᴅᴇ ᴠɪɴᴏ ᴇʟ ʙᴏᴛ ʏ ᴅᴏɴᴅᴇ ᴘᴜᴇᴅᴏ ᴄᴏɴꜱᴇɢᴜɪʀ ᴍᴀꜱ?
+ᴇꜱᴄʀɪʙᴇ /leyworld
+
+[c]★彡Bot hecho por Ley彡★

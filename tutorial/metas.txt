@@ -1,0 +1,19 @@
+Se pueden crear metas tanto de monedas como de usuarios. Para crear una meta se tiene que decir que tipo de meta es
+Puede ser /meta monedas o /meta usuarios. Primero probemos con una de monedas
+Para crear una meta de 10 monedas seria de la siguiente forma
+/meta monedas 10
+$
+Ahora crear una segunda meta pero esta vez con nombre
+/meta monedas 20 segunda meta
+$
+Ahora una meta de usuarios con nombre
+/meta usuarios 1000 llegamos a lo maximo
+$
+para ver las metas es /metas
+/metas
+$
+y finalmente para borrar las metas es /borrarMeta y el numero de meta
+A las metas tambien se le pueden poner comandos con un salto de linea y el nombre del comando y en el momento que esa meta se alcance ese comando se ejecutara, por ejemplo una limpieza a los 1000 usuarios
+/borrarMeta
+/borrarMeta 1
+/metas

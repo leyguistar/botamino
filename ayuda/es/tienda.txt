@@ -1,0 +1,5 @@
+La tienda es un comando con el que puedes comprar cosas para tu chat usando puntos.
+
+Los puntos se consiguen con eventos especiales o consiguiendo logros.
+
+El comando es nuevo asi que es probable que este un poco vacia.

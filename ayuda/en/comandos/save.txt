@@ -1,0 +1,5 @@
+It is used to save something, be it an image, a text, an audio.
+usage:
+/save [name]: what you want to save must be mentioned in the message
+
+To load it use /load

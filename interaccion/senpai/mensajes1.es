@@ -1,0 +1,1 @@
+%s quiere que su senpai la note

@@ -1,0 +1,35 @@
+El bot lanza una bienvenida automatica configurable cada vez que entra un nuevo usuario.
+
+Esta bienvenida se puede configurar con, un mensaje predeterminado cuando entra, un tipo de letra cuando es un mensaje general y los marcos del chat.
+
+/mensaje cambia el mensaje de bienvenida del chat
+/marco pone los marcos en el mensaje de bienvenida
+/letraBienvenida cambia el tipo de letra de la bienvenida
+
+/recibir lanza la bienvenida general (con el mensaje de "Bienvenidos nuevos integrantes")
+
+Ejemplo:
+
+/marco 65
+/mensaje Bievenidos a este hermoso chat pasenla bien
+/letraBienvenida 13
+/recibir
+
+★◥▬▭▭▭▭▭◳◺✩◿◰▭▭▭▭▭▬◤★
+
+🅱🅸🅴🅽🆅🅴🅽🅸🅳🅾🆂 🅽🆄🅴🆅🅾🆂 🅸🅽🆃🅴🅶🆁🅰🅽🆃🅴🆂
+
+Bienvenidos a este hermoso chat pasenla bien
+
+★◢▬▭▭▭▭▭◱◸☆◹◲▭▭▭▭▭▬◣★
+
+Ademas de eso a cada usuario se le puede configurar una bienvenida (y despedida) personalizada con el comando /bienvenida
+/bienvenida @leybot Hola alex nos alegra que vengas al chat
+/recibir @leybot
+★◥▬▭▭▭▭▭◳◺✩◿◰▭▭▭▭▭▬◤★
+
+Hola leybot
+
+hola leybot nos alegra que vengas a este chat
+
+★◢▬▭▭▭▭▭◱◸☆◹◲▭▭▭▭▭▬◣★

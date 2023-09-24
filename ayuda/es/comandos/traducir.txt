@@ -1,0 +1,3 @@
+uso: /traducir [@user] : traduce algo de algun idioma a español, puede ser un mensaje o un usuario
+/traducir @user: va a traducir al español todos los mensajes que @user envie
+Para dejar de traducir a alguien /notraducir

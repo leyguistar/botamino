@@ -1,0 +1,3 @@
+sirve para shipear a 2 personas
+Ejemplo:
+/ship @deku @bakugo

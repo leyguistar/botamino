@@ -1,0 +1,1 @@
+%s patea a %s

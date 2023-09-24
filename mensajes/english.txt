@@ -1,0 +1,708 @@
+This game is not yet available in this version
+There is no game named %s
+You must wait %d seconds before using a command again
+Command in maintenance
+Music commands are not available at the moment, if you wanna know why, pm me /music, the information is in spanish but you can pm the bot creator too
+You do not have permission to use this command 
+Command previously disabled by a chat admin
+Command disabled by a community leader
+Command disabled by default, to enable a chat admin you have to use the command /enable %s
+Command %s\op: %d\type: %s\\
+There is no help for this command yet
+There is no help for %s
+You must mention someone
+You can only mention up to a maximum of 3 users
+%s commands:
+Commands created in this chat:
+usage: /commands [type]: show commands of a specific type
+Command types:
+Description: %s
+by %s
+usage: /8ball [something you want to ask]
+usage: /accept [host|curator|leader]: accept a staff role
+host
+leader
+curator
+This bot has not been invited to be a host
+I'm admin 😎
+This bot has not been invited to be a leader
+Now i have absolute power
+This bot has not been invited to be a curator
+You better be good
+Global bot activity log:
+Messages per minute: %s
+Active chats in the last minute: %d
+%s your horoscope is:
+usage: /compatibility @user
+usage: /tips [yes|no]: turn the thank you message on or off 
+usage: /add [command name]: appends to a already created command
+There is no command with that name
+The message is missing
+Error creating the command, the media couldn't be saved
+Only commands that start with / ./ can be created
+Updated command %s 
+You can't the alias of a bot
+Not to me
+Error saving
+Usage: /alias @user: gives an alias to a user
+Usage: /anime [anime name or id]: search for an anime, either directly by id (the number in parentheses when searching) or by name
+I will erase every image sent in the chat
+I will erase every sticker sent in the chat
+Usage: /antispam text [text]
+Example: /antispam www text: delete all messages containing www 
+Usage: /antispam flood [n]
+Example: /antispam flood 5: delete any text message that repeats more than 5 times
+Usage: announcement [new announcement]: change the chat announcement
+Turning off bot
+Usage: /app chat: add chat to your app acount
+chat added to the app
+The current bot in this chat does not belong to you
+There aren't so many audios
+Usage: /audio [n]: where n is a number
+Select with /audio number:
+This is a public bot, everyone is allowed to use it
+Everyone is allowed to use the bot
+Users authorized to use this bot in this chat:
+The bot is already authorized in this chat
+Only the bot owner can use this command
+Usage: /authorize @user: you authorize a user to use this bot, in this chat
+%s is already authorized to use the bot 
+Authorizing %s to use %s
+You cannot remove the host
+You cannot remove a co-host
+You cannot remove ley, ley is broken
+The bot needs to be cohost to be able to kick users
+usage: /wall [new wall]: change the bot wall
+I was unable to delete de message
+You have to mention the message you want to delete
+usage: /deleteN [n]: delete n messages from the chat
+You have to mention one or more users.
+Available bots:
+usage: /bug [bug message]: report a bug to the bot creator
+bug reported
+only leaders are able to use this command.
+usage: /dr [role]: deletes a role
+deleting role %s this could take a while.
+Role %s successfully deleted
+there is no role named %s
+Stopping auto translate
+usage: /jail @: sends a user to the jail
+usage: /wc [command]: adds a command to the welcome message
+added %s to the welcome
+usage: /rwc [id]: removes a welcome command
+Welcome commands:
+There is nothing set for the welcome
+command deleted from the welcome
+That id was not found
+usage: /tc: [from] [to]%s[command in a new line]
+The command goes on a line below 
+command added to tips
+usage: /rtc [id]: remove a tip command
+%d. %s%s from:%d to:%d%s
+command removed from tips
+usage: /cohost [give|remove|giveme|release]
+This command cannot be used in this chat
+you do not have permissions to grant cohost
+you do not have permissions to remove cohosts
+you released you cohost
+Current chat settings:
+Copying your profile
+Ready copied, you can also partially copy with /copy [nickname|wall|icon]
+usage: /create [new command name]
+You must select a message with the command, this message has to start with / or ./
+There is already a command with that name
+Error creating the command, there is media with that name
+Command %s created
+Created answer for: %s
+%s fill %s with whipped cream 
+usage: /cream @: fill with whipped cream a user
+%s cumshot %s
+usage: /cum @: cumshot users
+invalid link
+I had an error with the link
+Is not the link of an amino user
+Request sent to %s, he has to accept to become a curator
+Error sending request to %s 
+usage: /curator @user: promote a user to curator, only works if the bot is leader
+usage: /debug [on|off]: show advanced errors
+texts of more than 200 characters cannot be spoken
+usage: /say [text]: sends a voice not
+%s has left %s
+deleted %s
+%s was not found
+usage: /deletesave [name]: delete something from saves
+You cannot deop the host
+You cannot deop ley, ley is broken
+Only the host can deop a cohost
+Bot description updated
+usage: /description [new description]: change the description of the bot
+usage: /disable [command]: disable a command or a group of commands
+permission cannot be disable
+That command do not exists
+Disabling the %s command
+...
+uwu
+uso: /banchat userid razon
+uso: /banuser userid razon
+No.
+That configuration do not exists
+The bot can only be unauthorized in this chat by the chat host 
+This command can only be used by the bot owner
+No one is authorized to use the bot, first authorize someone
+Owner
+usage: /deletecommand [/command|answer]: deletes a command or an answer
+Answer deleted eliminada
+usage: /erase [media name]: deletes media from the chat
+usage: /special [message]: sends a special message
+usage: /delay [n]: changes the delay between commands per user
+usage: /statistics [n]: constantly show bot stats.
+There are no banned Users
+The background could have inappropriate content so is omitted
+That background cannot be used
+The background was not found
+This command do not works in private chats because in private chats you cannot delete other users messages
+This command only works if the bot is cohost, host, or staff
+usage: /disableuser @: blacklist a user, so it deletes all messages that a this user sends in the chat
+usage: /gif [search] Example: /gif anime (search anime gifs)
+usage: /enable [command]: enables a command
+That command do not exists
+To enable or disable a command in the whole community a leader has to text the bot with /enable [command] or /disable [command]
+This command in public chats can only be enabled by a leader or curator
+This command may not be suitable for all chats, use it carefully, always complying with the community and amino rules 
+Command disabled by a community leader
+only the owner of this bot can use that command
+message deleted
+usage: /playgame [game]: starts a game
+You cannot remove the host
+You cannot remove a cohost
+You cannot remove ley, ley is broken
+The bot needs to be cohost to be able to kick users
+usage: /kill @: kills a user
+you first have to search for a song
+usage: /lyrics [id|name] search the lyrics of a song
+usage: welcomeLetter [n]: change the welcome
+only a leader can use this command
+invalid link
+I had an error with the link
+Is not the link of an amino user
+usage: /leader [@user|userlink]: promote a user to leader, only works if the bot is leader
+You don't have that save
+eto I was unable to find the anime
+eto... I was unable to find the lyrics
+Error saving
+usage: /messageframe [n]: set a frame for chat messages
+usage: /specialmessageframe [n]: set a frame for your special messages
+The frames are a lot so the bot sends it in private chat, please open chat with the bot and send /frames
+usage: /kill2 @: kills like among us
+usage: /maxstrikes [n]: set the maxstrikes until ban
+error saving
+Welcome message saved
+error saving
+Tips message saved
+usage: /message [welcome|tips|sticker]: sets a tip or welcome message in the chat
+only the owner of this bot can use this command
+usage: /nickname [new nickname]: changes the nickname of the bot
+You take the fun out of life
+only the owner of this bot can use this command
+The name is too long
+Error changing the name, there is already a bot with that name
+usage: /name [new name]: changes the global bot name
+Stoping automated translation
+Automatic detect nsfw enable  use /nsfw no to disable
+Automatic detect nsfw disable use /nsfw yes to enable
+Automatic detect nsfw enable
+Automatic detect nsfw disable
+usage: /nsfw [yes|no]: Enable or disable nsfw detection
+usage: /otherBots [yes|no]: warn whenever another user beside this bot use special messages, this command can be used to prevent spam
+Disabling detection of other bots
+enabling detection of other bots
+You don't have enough permissions
+usage: /opinion [opinion]: give your opinion of the bot 
+Thanks for your opinion
+You can only mention up to a maximum of 3 users
+usage: /kickface @: kick the face of an user
+There is no active voice chat
+usage: /enableuser @: remove a user from the blacklist
+usage: /permission [command] [op]: changes the op level required to use a command, op has to be between -1 y 3 been -1 disabled
+You cannot change the op of permissions
+To enable or disable a command in the whole community a leader has to text the bot with /enable [command] or /disable [command]
+This command in public chats can only be enabled by a leader or curator
+This command may not be suitable for all chats, use it carefully, always complying with the community and amino rules 
+That command do not exists
+The op has to be between -1 and 2
+usage: /badge [chat badge]: add a chat badge
+Error saving
+There is no active voice chat
+Added to the queue
+There are not available players
+Added to the queue
+Error connecting to the voice channel
+link added to the queue
+Error connecting the audio
+The maximum number of videos in the queue is 3 To cancel those in the queue use /youtube cancel
+usage: /play [search]: plays a youtube song in the voice chat
+There is no active voice chat
+usage: /messageprefix [prefix]: changes the prefix for a chat message
+There is no active voice chat
+The playlist is empty
+usage: /random [n1] [n2]: generates a random number between n1 and n2
+usage: /remove @user: removes a user from the voice chat
+You cannot repeat something more than 100 times
+Only the host can repeat something more than 10 times
+This message cannot be repeated as it may contain inappropriate content
+usage: /repeat [n]: repeats the a message n times
+usage: /report [message]: reports bad ussage of the bot
+If a message is selected, the message is reported, it is preferable to report the specific message
+The misuse of this command is a reason for permanent ban from the bot to the user (not being able to use the bot anymore)
+Image successfully reported, it will not appear again until a moderator reviews it ^^ 
+reported
+reported
+updating chat
+invoking the people
+usage /role @user: show the roles a user has in this community
+usage: /role [name] [color] [description]: creates a role in this community
+The description is missing, the description should be in a new line
+The color is missing, the color starts with # example:
+/role role example #00ff00
+The color is missing, the color starts with # example:
+/role role example #00ff00
+There is already a role with that name
+This community has no created roles
+usage: /rip @: sends a rip message to a user
+usage: /save [name]: saves a message
+message delete
+only my owner can use that command
+usage: /follow @: I follow the user you mention
+This command can only be used by the staff
+usage: /setrole [name] @user: adds a role to a user
+example: /unsetrole example role http://aminoapps.com/p/example
+You has to mention 2 users
+There is no active voice chat
+The message is no a sticker
+The sticker must be in a separate pack, it cannot be a favorite
+usage: /sticker [name]: Saves a sticker, The sticker must be in a separate pack, it cannot be a favorite
+usage: /suggestion [message]: sends a suggestion about the bot
+Thanks for your suggestion
+Test bot was unable to join the community
+usage: /messageType [normal|special]
+usage: /messageType [normal|special]: Change the bot messagetypes
+Command in maintenance
+The messages of the bot cannot be translated
+usage: /transfer [owner|host]: transfer chat host (if the bot is host) or bot owner
+The user needs to be mentioned
+This command can only be used by the owner of the bot
+This bot is not the host of this chat
+Transfer host can only be done by op 3
+Done
+usage: /unbanuser userid
+usage: /unbanuser userid
+This command can only be used by the staff
+usage: /unsetrole [rolename] [@user|linkuser]: removes a role from a user
+example: /unsetrole examplerole http://aminoapps.com/p/example
+There is no active voice chat
+usage: /volume [0-100]: changes the volume
+volume must be a number
+usage: /voice [voice]: change the voice of the bot
+usage: /wikipedia [title]   [content]: makes an edit of a wikipedia search
+The content goes in a new line
+usage: /language [en|es]: change the language of the bot
+The language can only be "es" (spanish) or "en" (english)
+language set to english
+idioma cambiado a español
+The bot is already active
+only the bot owner can use this command
+usage: /rr [mensaje de respuesta]: elimina una respuesta
+Command in maintenance
+usage: /messages @user: show the number of register messages of an user
+There is no active voice chat
+It looks like this command is not ready
+usage: /radio [anime|moe]: plays radio in the voice chat
+canceling
+added to the queue
+This video is too long for a voice note
+This bot is deactivated from this community
+Starting bot
+The bot is off, to start it write /activate
+Bot authorized
+invalid authorization
+First you have to choose a bot, to choose one use /bot 
+Bot authorized
+Invalid authorization, this is a private bot and can only be authorized by the owner
+To change bot use /bot
+Bot not authorized in this chat yet, to authorize it a cohost or the host of the chat must put /authorize or /autorizar
+Oh, it seems you don't have any entretiment bot in this chat yet.
+Let me help you ^^ if you want a bot just put /bot to see the bots and you can choose one
+Bot not authorized in this chat yet, to authorize it the owner of this bot must put /authorize 
+usage: /config [configuration] [new value]: change some configuration
+There is no media yet
+Select the image
+usage: /media [name]: Loads or save chat media
+What do you want to save?
+Name is missing
+The name cannot contain / 
+Failed to skip the song
+Error connecting with the voice channel
+Disavowing %s in this chat 
+%s was not authorized to use %s
+%s is no longer authorized to use %s
+take care
+Commands available according to your permission level :
+command %s deleted
+There is no command named %s
+There is no answer for "%s"
+Title: %s
+Description: %s
+Episodes: %d
+On aired: %s
+Ended: %s
+Image not available because it could contain inappropriate content
+Error looking for the anime
+usage: /animeseason [year] [season]:\year: [1962-2021]\season: [winter|spring|summer|fall]\ example: /season 2021 winter
+Results: 
+Error looking for the season
+usage: /broadcasting [day] :\day: [monday|tuesday|wednesday|jueves|friday|saturday|sunday]\example: /broadcasting monday
+Error looking for the season
+Error searching
+usage: /opening id: search the openings of an anime by anime id
+usage: /ending id: search the endings of an anime by anime id
+usage: /manga id: gives information about the manga with that id
+Chapters: %d
+Name: %s
+%s has joined %s
+Here is the background of the chat
+Chat media:
+Enabling the command %s
+The command %s is not disable 
+Please select an image
+Leader request sent to %s
+Error sending the request to %s
+You can only use frames from 0 to %d
+%s kills %s
+usage:\/media [name] \Loads or saves chat media
+I'm %s now
+You have op level %d
+%s is not op
+%s is op %d
+Enabling the command %s
+Warning enabling the command %s
+Changin %s's op to %d
+usage: /allow [links|images|text|flood]: the opposite of /antispam
+Blocked texts:
+response seconds
+connect time %s
+Current chat badge: %s
+Chat badge updated: %s
+Playlist:
+%d. %s\by: %s\
+Requested by: %s
+%d. %s %s\by %s\
+Next:
+%s has no role in this community
+Queue:
+usage: /%s [audio]: search audios in youtube
+%s roles:
+Roles in this community:
+Okay I'm following %s
+There is no role%s
+role %s set to %s
+I follow you ^^
+I only follow the users my owner ask me to
+%s has no role %s
+remove the role %s of %s
+Bot version: %s
+is not among the options, choose one of the following voices
+bot voice %s
+current voice %s
+%s mode %s
+message of %s: %d
+Your messages: %s
+%d is not among the options
+1 coin
+thanks %s for the coin
+thanks %s for the %s coins
+%s coins
+Only the host or someone with op 3 can activate the bot, your op level is %d
+turning off bot
+this command cannot be applied over this image
+Now playing:
+I couldn't say this sorry
+Strikes cannot be given to the host
+haha, nice try
+I had trouble saying that
+I had trouble saying that
+usage: /bot [bot name]: used to switch bot
+That bot is muted
+That bot is banned from this community
+That bot already reached the maximum number of communities in amino
+Error inviting the bot to this chat
+The bot was banned from this chat by an admin and cannot be re-invited
+That bot is muted
+The bot was not able to join the chat
+Error joining the bot to the community
+Hi ^^
+This bot is not public
+No results found
+Error sending audio, audio not supported by amino
+An error occurred trying to get the audio, please choose another
+Error joining the bot to the community
+The bot reached the maximum number of communities in amino
+Error inviting bot to chat
+The bot was not able to join the chat
+Image omitted because it may contain inappropriate content
+saved as sticker
+You can only save images, gifs or audios
+saved message
+I can't save that
+Error, in public chats only the host or a co-host can start live
+Error, I could not start voice chat
+Link warning from another community, sending the bot to that community
+Only ley or the host of the target chat can send the bot to the target chat
+usage: /tp [chat link]: send the bot to another chat
+%s was banned by strikes
+%s you have %s strikes %d one more strike and you will be banned
+%s you have %d strikes %d more and you will be banned
+I only serve to bring other bots
+There is no bot with name %s
+%d. %s one message
+%d. %s %d messages
+enter a number to choose, c to cancel
+there is no information regarding %s
+User information:
+Name: %s
+Followers: %s
+Following: %s
+Level: %s
+Reputation: %s
+Days in the community: %d
+Total messages in chat: %d
+Community messages %d
+Deleting messages from %s
+Deleting stickers and images
+Deleting last %d messages
+saved %s
+%s is cohost now
+error adding cohost
+Welcome
+Hi there
+Bye
+Hi!\I am a bot and I have been teped to this chat (only the host should be able to tp me), for bot help /help
+Here it is, take good care of she
+Only the purest of heart can see this image
+Search result for %s
+You have been banned from using this bot
+Reason: %s
+If you want to know why ask the creator
+Welcome leader, from here you can configure special bot commands in the community, if you want to see what those commands are put /leader
+Hello ^^
+I'm a bot. Do you want to see my commands? use /start
+There are several premium versions
+This command can only be used by my owner
+invalid link
+I had an error with the link
+It is not the link of an amino user
+Message missing
+I need verification before commenting on this wall
+I couldn't comment on that wall
+Ready, I wrote the message on your wall ^^
+
+This command is used to associate your discord account with amino, to do so write to Shita #7781 in discord /amino
+Incorrect code
+The code has expired
+This command can only be used by my owner
+usage: /create [message]\[reply one line below]
+The answer to the message is missing, it goes one line below
+usage: /accept [curator|leader]: accept a request to become: curator, or leader
+This bot has not been invited to be a leader
+Now I have absolute power
+This bot has not been invited to be a curator
+You better be good
+You are not a leader
+Error, you have to be a leader to configure this command
+This command can only be used by the bot owner
+You have to be a leader to activate or deactivate the welcome in this community
+usage: /welcome [yes|no]: configures whether the bot puts a message on the new wall or not
+First you have to configure a welcome message by typing /message wall\[the message]
+It remains to assign a bot to this community, with /setbot, this will be the bot that welcomes you
+I am already receiving the new users
+Ok, I'll start to receive the new users
+Well I stop receiving the new ones
+usage: /welcome [yes|no]: configures whether the bot puts a message on the new wall or not
+Community of ley http://aminoapps.com/c/leyworld 
+Go there what are you waiting for?
+This command can only be used by the bot owner
+You have to be a leader to be able to use this command
+usage: /message [wall|private|chat]\[message]: set the bot message
+No current message
+usage: /wall message      [message in the lines below]
+Wall message changed
+No current message
+usage: /private message       [message in the lines below]
+message changed
+usage: /message [wall|private]        [message]: set the bot message
+This command can only be used by the owner of this bot
+You have to be a leader to change the official bot of this community
+Now I am the bot of assigned to this community
+usage: /release [chat link]: remove the onlyview mode of a chat
+you do not have permissions in this chat
+you don't have tags
+To add a tag /tag !tag:description Example /tag !personality:very cold
+usage: /enable [command]: enables a command in this community, exclusive command of leaders
+usage: /disable [command]: enables a command in this community, exclusive command of leaders
+Only a leader can disable a command for the entire community
+I am a private bot and I only follow who my owner tells me to
+The bot has been deactivated from that community
+To know why contact the creator
+Currently not available
+Go to the following link to log into the leybot page
+This command can only be used by the owner of this bot
+usage: /leave confirm: makes the bot leave the community
+You can't get the bot out of leyworld
+Leaving this community.
+Currently not available
+To download the app\/app link\For an access code\/app code
+app link: leyguistar.com/leybot
+Enter the following code in the app to log in
+Code valid for an hour, or until you request another
+link detected
+invalid link
+If you want to have a bot like this in your chat you can buy one or use the lite version
+If you want to use a free bot you can write /start to any of the following bots
+For information about the premium version put /premium
+I don't know what this link is
+jum
+jum
+jum
+This bot does not belong to this community. You can use one of the following bots or request more at leyworld.
+I could not join the community
+Already reach the maximum number of communities in amino, try another bot
+I was able to successfully join the community ^^
+jum
+jum
+jum
+The bot has been deactivated from that community
+To know why contact the creator
+This bot does not belong to that community but you can use one of the following. If you want more ask the staff at leyworld
+I could not join the community
+Already reach the maximum number of communities in amino, try another bot
+Error entering the community Is it a private community? If that's the case pass me an invitation link first
+I am not part of that community, to join pass me an invitation link
+It seems to me that I am banned from that community
+An error occurred and I was not able to join that chat
+The bot was sent to the chat
+You have to be host of that chat to put the bot in the target chat
+not a chat link
+Uh? I did not understand you if you want look at my commands with / help
+an answer already exists for %s
+created response for: %s
+This chat was banned from using this bot
+Successfully linked with %s
+Community Settings
+Current community bot: %s
+Current Community Bot: Unassigned
+Receive the new ones:
+There is no command %s
+enabling the %s command in this community
+Only a leader can enable a command for the entire community
+disabling the %s command in this community
+I'm already in that community. This is my link for you to find me ndc://x%d/user-profile/%s. I already follow you.
+This is my link for you to find me ndc://x%d/user-profile/%s, I'm following you.
+Bots in this community:
+This bot does not belong to this community, If you want to buy another bot ask in leyworld
+%s check private to see the frames
+You can donate to me in paypal:
+You can donate to me in ko-fi:
+Warning, a special message from another user apart from this bot was registered, it could be spam, to deactivate the detection of other bots put /otherBots yes
+Daily top:
+weekly top:
+monthly top:
+Top messages: 
+Has received:\%d chocolates\%d flowers\%d kisses\%d pats\\ 
+Has been:\%d dates\%d couples\%d marriages\\
+uso: /asteriskmessages [yes|no]: disable or enable asterisk messages.
+Disabling asterisk messages
+Enabling asterisk messages
+usage: /bubble [optional all]: select a message to copy bubble
+Failed to change bubble
+Do I look better now?
+Do you like me more now?
+usage: /copyframe @user: copy a user frame
+How do I look?
+Failed to change frame
+Chats playing music: %d
+bye message set
+error checking playing
+To check commands of a type use\/commands [type]\\For example: /commands interaction
+%s I sent you all my commands to pm
+%s If you want to check all my commands open pm with me and send /commands in this chat again
+%s I pm you the audios
+%s I tryed pm you to sent you the audios but I failed 
+volume updated
+sticker message saved
+No message, use /message sticker to change
+usage: /message sticker [message]: "[nick]" will be changed for the name of the user
+usage: /sounds [yes|no]: enable or disable voice in live.
+disabling voice in live
+enabling voice in live
+Type: %s
+Abilities: %s
+Weight: %s
+Height: %s
+Species: %s
+Base experience: %s
+usage: /pokedex [pokemon]
+usage: /everyone [yes|no]
+activating @everyone
+deactivating @everyone
+number most be positive
+deactivating antispam images
+deactivating antispam stickers
+deactivating antispam flood
+deactivating antispam text
+deactivating antispam
+You must wait %d seconds before using this command again
+First use /waifu or /husbando
+usage: /like: like the waifu
+usage: /trash: trash the waifu
+you like %s
+%s is trash for you
+you already voted %s
+You don't like %s any more
+You haven't liked %s
+You haven't trash %s
+%s is not trash for you any more
+your harem is empty, claim waifus with /claim
+You can claim %d waifus, first search a waifu.
+You cannot claim waifus.
+Now %s is in your harem.
+You already have %s.
+Your harem is not that big
+usage: /searchwaifu [name]: search a waifu by name.
+uso: /searchhusbando [name]: search a husbando by name.
+no results
+check pm
+haha no.
+usage: license [text]: prepare a license
+Preparing your license...
+Here it is
+usage: /welcomes [yes|no]: welcomes new members
+deactivating welcome
+activating welcome
+I will erase every amino link sent in this chaat
+Allowing links
+I'm not erasing the links
+I will delete the %d repeated message 
+Bots in this community:
+Bots available:
+Disabling all commands of type %s
+Commands that where disable:
+You do not have permission to use set this mode
+simping:
+Only the user who create this command can change it
+Command saved
+Your tags:
+usage: /rtag [number]: to see your tags use /tag
+You do not have that tag
+kicking out invited members
+kick %d members
+kicking members with less than %d messages
+kicking members with less than %d reputation

@@ -1,0 +1,24 @@
+Comenzemos por algo basico, la bienvenida automatica que lanza el bot cada vez que entra una persona a un chat.
+Primero para lanzar una bienvenida general es /recibir
+/recibir
+$
+A la bienvenida se le pueden poner varios marcos con /marco, para ver todos los marcos poner /marcos
+/marcos
+$
+Ahora para elegir un marco es /marco n por ejemplo para el marco 1 es /marco 1 pruebalo
+/marco %
+/recibir
+$
+Tambien se pueden combinar marcos para combinar marcos se pone /marco n m donde n es el marco superior y m es el marco inferior
+/marco 1 2
+/recibir
+$
+Para poner un mensaje de bienvenida es /mensaje por ejemplo un mensaje que diga "bienvenidos a este chat" seria
+#/mensaje bienvenidos a este chat
+Prueba poner un mensaje de bienvenida
+/mensaje %
+/recibir
+$
+Tambien se puede cambiar el tipo de letra del mensaje "bienvenidos nuevos integrates" para ver todas las letras es /letras y para elegir una letra por es /letraBienvenida n donde n es el numero de la letra
+/letras
+/letraBienvenida %

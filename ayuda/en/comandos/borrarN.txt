@@ -1,0 +1,3 @@
+This command is used to delete a certain number of messages since the last one.
+For example, to delete the last 5 messages it would be
+/deleteN 5

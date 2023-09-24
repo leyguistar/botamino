@@ -1,0 +1,5 @@
+Used to repeat a message several times
+use:
+/repeat [n]: Repeat a message n times, the message to be repeated must be mentioned
+example:
+/repeat 10

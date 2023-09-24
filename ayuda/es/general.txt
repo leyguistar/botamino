@@ -1,0 +1,29 @@
+🇮 🇳 🇫 🇴 🇷 🇲 🇦 🇨 🇮 🇴 🇳 
+
+🇬 🇪 🇳 🇪 🇷 🇦 🇱
+
+El comando de ayuda se puede usar de 2 maneras.
+
+Puedes Buscar informacion de un comando con /ayuda [comando]
+
+Por ejemplo:
+
+/ayuda op
+
+O puedes buscar informacion de un grupo de comandos con /ayuda [tipo]
+
+Por ejemplo:
+
+/ayuda diversion
+
+Para ver todos los comandos del bot puedes usar /comandos y para ver comandos de un tipo especifico /comandos [tipo]
+
+Por ejemplo:
+
+/comandos admin
+
+Y finalmente para informacion mas detallada acerca del bot puedes usar el comando /info
+
+║▌│█║▌│ █║▌│█│║▌║
+
+★彡Bot hecho por Ley彡★

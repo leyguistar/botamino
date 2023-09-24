@@ -1,0 +1,11 @@
+¿Que es la tienda del bot?
+
+La tienda del bot es un comando con el que puedes comprar cosas.
+
+¿Que clase de cosas? 
+
+Por el momento solo burbujas de chat y stickers, pero con el tiempo se iran agregando mas cosas
+
+¿Como comprar?
+
+/tienda comprar [id]: donde id es el id del objeto que quieres comprar. Para comprar necesitas puntos, puedes ver como obtener puntos con /tienda puntos

@@ -1,0 +1,10 @@
+bot creado por ley 
+
+El bot es un proyecto independiente hecho por ley (/info ley) para hacer amino mas entretenido no tiene nada que ver con los desarrolladores de amino.
+
+/ayuda [tipo]: para ayuda de comandos de un tipo especifico
+/info [topico]: para informacion sobre un topico en especifico
+/comandos: muestra todos los comandos por categoria
+/disponible: muestra los comandos disponibles de un usuario
+
+topicos: op, ley, juegos, app, comandos, alias, bienvenida

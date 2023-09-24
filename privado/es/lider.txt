@@ -1,0 +1,8 @@
+[c]Comandos de lider:
+habilitar: deshabilita un comando en todos los chats publicos de la comunidad, sin embargo el comando sigue funcionando en chats privados
+deshabilitar: habilita un comando en la comunidad
+aceptar: aceptar [lider|curador] convierte al bot en lider o curador.
+config: muestra la configuracion actual del bot en la comunidad
+mensaje: [muro|privado] configura la bienvenida por defecto del bot en el muro o cuando le abren chat privado
+
+[ci]Nota: Hay mas comandos exclusivos de lideres pero estos estan destinados para chats grupales como el staff  

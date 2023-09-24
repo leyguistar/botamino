@@ -1,0 +1,36 @@
+antispam: varios mecanismos antispam.
+anuncio: cambia el anuncio del chat.
+bug: reporta un bug al creador del bot.
+cancelar: sirve para cancelar. Puede usarse con varios comandos.
+coas: muestra los coanfitriones del chat.
+decir: hace que el bot diga algo.
+delete: borra algo de los saves personales.
+despedir: despide a un usuario o manda una despedida general.
+discord: conecta este chat con un server de discord.
+disponible: muestra los comandos disponibles segun tu nivel de permisos.
+erase: borra algo de la media del chat.
+especial: envia un mensaje especial.
+exiliados: muestra los baneados del chat.
+fondo: envia el fondo del chat.
+fondos: muestra los fondos disponibles.
+hora: muestra la hora en diferentes paises.
+load: carga un save.
+marcos: muestra los marcos.
+media: muestra la media.
+ndclink: crea un link especial de este chat. Funciona incluso en privados.
+noalias: te quita el alias.
+notraducir: desactiva la traduccion automatica.
+ping: responde con pong. Muestra el tiempo de respuesta del bot.
+random: envia un numero random.
+recibir: envia un mensaje de bienvenida.
+recuperar: recupera mensajes borrados.
+repetir: repite un mensaje varias veces.
+reportar: sirve para reportar uso inapropiado del bot.
+revivir: invoca a los coas y al anfitrion del chat.
+save: guarda un mensaje.
+sticker: guarda un sticker.
+top: muestra el top de mensajes enviados en el chat.
+traducir: traduce un mensaje, o un usuario.
+uptime: muestra el tiempo desde el ultimo reinicio.
+version: muestra la version del bot.
+permitir: desactiva el antispam.

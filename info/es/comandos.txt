@@ -1,0 +1,22 @@
+El bot viene con una enorme lista de comandos para ayuda sobre los comandos usar /ayuda
+
+Cada comando tiene un nivel de permisos asociado y dependiendo del nivel de permisos que tenga este usuario podra o no podra usar ese comando, para poder usar los comando un usuario tiene que tener minimo op 0 (excepto en los juegos)
+
+Para mas informacion de los niveles de permiso usar /info op
+
+-----
+
+Ademas de los comandos del bot un usuario nivel 2 puede crear comandos usando el comando /crear, pero esta es una caracteristica de la version premium
+
+Para mas informacion del comando crear poner /info crear
+
+Para crear un comando primero se debe seleccionar (haciendo reply) el comando que va a correr cuando se use el nuevo comando y despues ponerle un nombre al nuevo comando
+
+Ejemplo:
+/se come una hamburguesa
+
+*reply a "/se come un hamburguesa"*
+/crear comerHamburguesa
+
+y ahora
+/comerHamber

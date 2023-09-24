@@ -1,0 +1,9 @@
+[cbi]Bienvenido a adivina el anime random
+
+[c]Este juego tiene 100 niveles cada uno con 50 animes
+
+[c]Puedes elegir el nivel con /dificultad
+
+[c]Para configurar la cantidad de animes usa /start [numero de animes]
+
+[c]Gana el equipo, o jugador que adivine mas animes

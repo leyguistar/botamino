@@ -1,0 +1,7 @@
+left: used to leave something or someone.
+enter: used to enter something or someone.
+opinion: serves to give your opinion of the bot.
+follow: makes the bot follow someone.
+followme: makes the bot follow you.
+suggestion: it is used to give a suggestion.
+test: used to perform different tests. 

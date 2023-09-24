@@ -1,0 +1,5 @@
+This command is used for the bot to send a message with the user's frames.
+For example:
+/special this is a message
+It will make the bot say "this is a message"
+To configure the frames of that message is /frameE

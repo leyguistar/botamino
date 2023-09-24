@@ -1,0 +1,18 @@
+Ademas del nombre de amino se le puede poner un sobrenombre a un usuario y este sobrenombre se mantendra en todos los chats donde este el mismo bot.
+
+El bot se referiria a este usuario por ese nombre en todo momento, por ejemplo en los juegos dira "turno de chibi" en la bienvenida "Bienvenido chibi" en el /ship, /le y /se tambien aparecera con su sobrenombre
+
+Por ejemplo:
+/alias @pedro pan
+/alias @pablo queso
+
+y si ahora pedro escribe un mensaje como este:
+/le da un golpe a @pablo
+aparecera:
+pan le a dado un golpe a queso
+
+/ship @pablo @pedro
+
+💖💖💖💖💖💖💖💖💖💖💖💖
+queso💑pan
+❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️

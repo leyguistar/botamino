@@ -1,0 +1,12 @@
+join: put the bot in voice chat.
+leave: makes the bot leave the voice chat.
+live: start a live mode.
+pause: pause what is playing.
+play: play a song.
+playing: shows what is playing.
+projection: start a projection.
+queue: shows the playback queue.
+remove: remove a user from the voice participants' chat.
+skip: skip the current song.
+videocall: start a video call.
+volume: change the volume.

@@ -1,0 +1,1 @@
+This command is used to delete a message. The message has to be mentioned in the command

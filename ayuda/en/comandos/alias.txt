@@ -1,0 +1,5 @@
+Set a alias to a user
+usage:
+/alias @user [alias]
+example:
+/alias @user el pepe

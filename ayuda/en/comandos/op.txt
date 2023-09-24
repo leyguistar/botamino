@@ -1,0 +1,6 @@
+This command is used to control the permission levels of the bot
+usage:
+/op: show your current permission level
+/op @user: show user permission level
+/op [n] @user: gives user a level n op
+/op [n]: shows all users who have op of level n

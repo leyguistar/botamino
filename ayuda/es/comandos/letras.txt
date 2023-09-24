@@ -1,0 +1,1 @@
+Este comando sirve para ver los tipos de letra que tiene el bot para la bienvenida personalizada.

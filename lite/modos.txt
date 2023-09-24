@@ -1,0 +1,6 @@
+normal 0
+rol 1
+musica 2
+admin 3
+bienvenidas 4
+antibots 5

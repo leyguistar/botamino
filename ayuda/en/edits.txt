@@ -1,0 +1,3 @@
+jail: put someone in jail.
+kill: kill someone like in minecraft.
+wikipedia: send an edit of a search on wikipedia. 

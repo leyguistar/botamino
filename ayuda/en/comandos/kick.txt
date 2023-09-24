@@ -1,0 +1,5 @@
+This command is used to remove users from the chat but with the possibility that they re-enter
+usage:
+/kick @user
+example:
+/kick @pablo

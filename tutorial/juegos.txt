@@ -1,0 +1,13 @@
+El bot viene con varios juegos para ver los juegos es con /juegos.
+/juegos
+$
+Para elegir un juego es /jugar alias del juego. Por ejemplo para jugar verdad o reto seria /jugar vor empecemos con ese.
+/jugar vor
+$
+Y pues eso es todo por este tutorial ya que cada juego es diferente pero basicamente todos funcionan de esta manera.
+Para entrar /entrar
+Para ver los jugadores /jugadores
+Para iniciar el juego /start
+Para cancelar el juego /cancelar
+Finalmente termina el juego
+/cancelar

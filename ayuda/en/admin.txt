@@ -1,0 +1,2 @@
+The admin commands are commands that modify the chat.
+The bot has to be co-host to use this commands

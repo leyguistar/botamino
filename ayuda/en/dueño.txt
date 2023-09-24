@@ -1,0 +1,10 @@
+app: things related to the app.
+authorized: shows who is authorized to use the bot in the chat.
+authorize: authorize the bot, or a user.
+wall: change the wall of the bot.
+copy: copy a user.
+description: change the description of the bot.
+deauthorize: deauthorize the bot, or a user.
+icon: change the bot icon.
+nickname: change the nickname of the bot in the community.
+name: change the name of the bot in global.

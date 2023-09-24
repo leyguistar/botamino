@@ -1,0 +1,7 @@
+[cbi]Bienvenido a adivina el opening
+
+[cu]Este juego solo se puede jugar en llamada.
+
+[c]Para configurar la cantidad de animes usa /start [numero de animes]
+
+[c]Gana el equipo, o jugador que adivine mas animes

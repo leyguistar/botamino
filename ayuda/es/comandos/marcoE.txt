@@ -1,0 +1,6 @@
+Cambia el marco de los mensajes personales de el usuario
+uso:
+/marcoE [n]: Te pone un marco en tus mensajes especiales
+Ejemplo:
+/marcoE 13
+usar con /especial

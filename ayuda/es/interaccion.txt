@@ -1,0 +1,5 @@
+Estos comandos sirven para reaccionar y interactuar con los demas.
+Los nombres son bastante descriptivos por si solos.
+Algunos ejemplos:
+corresponder: sirve para corresponder una interaccion que hayan hecho sobre ti.
+esquivar: sirve para esquivar una interaccion que hayan hecho sobre ti.

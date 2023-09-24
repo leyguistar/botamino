@@ -1,0 +1,1 @@
+Este comando sirve para borrar un mensaje. El mensaje tiene que estar mencionado en el comando

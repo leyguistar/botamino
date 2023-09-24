@@ -1,0 +1,2 @@
+Nuevo comando /gif sirve para buscar gifs en internet
+Nuevo comando /nuevo sirve para ver las nuevas cosas que tiene el bot

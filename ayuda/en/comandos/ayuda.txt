@@ -1,0 +1,7 @@
+This command is used to see the general help of the bot or help on a specific command
+/help: shows general help
+/help [command]: shows help about a command (if it has one)
+/help [topic]: help on a group of commands
+For example:
+/help help
+/help edits

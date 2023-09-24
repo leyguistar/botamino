@@ -1,0 +1,3 @@
+Este comando sirve para hacer pruebas de diferentes cosas
+/test unirse: hace que un usuario se una a la conversacion
+Todavia no hay mas comandos

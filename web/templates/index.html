@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Leybot el bot de amino</title>
+	<style type="text/css">
+	.flex{
+		display: flex;
+		-moz-box-align: center;
+		align-items: center;
+		align-content: center;
+		background-color: rgba(19,20,22,0.56);
+		min-height: 40px;
+		padding: 0px 32px;
+		    padding-top: 0px;
+		    padding-right: 32px;
+		    padding-bottom: 0px;
+		    padding-left: 32px;
+	}
+	.icon {
+	    width: 40px;
+	    height: 40px;
+	    border-radius: 25px;
+	        border-top-left-radius: 25px;
+	        border-top-right-radius: 25px;
+	        border-bottom-right-radius: 25px;
+	        border-bottom-left-radius: 25px;
+	    flex-shrink: 0;
+	}
+
+	.leybottext{
+		font-family: Poppins;
+		font-weight: bold;
+		font-size: 23px;
+		letter-spacing: 0.55px;
+		text-align: center;
+		color: white;
+		text-decoration: none;
+		cursor: pointer;
+	}
+	.nav{
+		flex: 1 1 0%;
+		    flex-grow: 1;
+		    flex-shrink: 1;
+		    flex-basis: 0%;
+		margin-left: 30px;
+	}
+	.headerlist{
+		list-style: outside none none;
+		    list-style-position: outside;
+		    list-style-image: none;
+		    list-style-type: none;
+		display: flex;
+	}
+	.menulistitem {
+	    white-space: nowrap;
+	    font-family: "Open Sans";
+	    font-size: 13px;
+	    letter-spacing: 0.55px;
+	}
+	.menulistitem a{
+		color: rgb(255, 255, 255);
+	    font-weight: 800;
+	    cursor: pointer;
+	    font-size: 12px;
+	    opacity: 0.7;
+	    text-decoration: none;
+	    padding: 15px 10px;
+	    transition: opacity 175ms ease-out 0s;
+	}
+
+	.bhiRrt {
+	    white-space: nowrap;
+	    user-select: none;
+	    font-family: "Open Sans", Helvetica, arial, sans-serif;
+	    line-height: 1;
+	    font-weight: 400;
+	    display: flex;
+	    border-radius: 3px;
+	    font-size: 13px;
+	    -moz-box-pack: center;
+	    justify-content: center;
+	    -moz-box-align: center;
+	    align-items: center;
+	    padding: 10px 25px;
+	    transition: border 180ms ease-out 0s, background 180ms ease-out 0s;
+	    color: rgb(255, 255, 255);
+	    background: rgb(90, 192, 222) none repeat scroll 0% 0%;
+	    border: medium none;
+	    cursor: pointer;
+	    min-height: 32px;
+	    min-width: 60px;
+	    width: unset;
+	}
+		
+	.nickname {
+	    white-space: nowrap;
+	    font-family: "Open Sans";
+	    font-size: 15px;
+	    letter-spacing: 0.55px;
+	    padding-left: 2px;
+	    font-weight: bold;
+		text-align: center;
+		color: white;
+
+	}
+
+	</style>
+</head>
+<body>
+	<header class='flex'>
+		<span class='leybottext'>Leybot</span>
+		<nav class='nav'>
+			<ul class='headerlist'>
+				<li class='menulistitem'>
+					<a href="/info/acercade" target="tableframe">acerca de</a>
+				</li>
+				<li class='menulistitem'>
+					<a href="/info/funcion" target="tableframe">Como funciona</a>
+				</li>
+				<li class='menulistitem'>
+					<a href="/info/premium" target="tableframe">premium</a>
+				</li>
+				<li class='menulistitem'>
+					<a href="chats">chats</a>
+				</li>
+				<li class='menulistitem'>
+					<a href="/comandos" target="tableframe">comandos</a>
+				</li>
+			</ul>
+		</nav>
+		{% if icon %}
+		<img src='{{ icon }} ' class='icon'>
+		<p class='nickname'>  {{ nickname }}</p>
+		{% endif %}
+	</header>
+	<iframe src="info" width="95%" height="2000" name="tableframe" frameborder="1"></iframe>
+</body>
+</html>

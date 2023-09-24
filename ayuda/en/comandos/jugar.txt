@@ -1,0 +1,5 @@
+starts a game
+usage:
+/playgame [game name]
+example:
+/playgame vor

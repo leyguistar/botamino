@@ -1,0 +1,5 @@
+Este comando sirve para sacar usuarios del chat pero con la posibilidad de que vuelvan a entrar
+uso:
+/kick @user
+ejemplo:
+/kick @pablo

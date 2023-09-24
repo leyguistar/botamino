@@ -1,0 +1,8 @@
+Hi there!
+I am a chat bot created by ley to make amino more entertaining.
+
+Private chat commands:
+/help: show private chat help
+/info: bot information
+
+The bot is a project in constant development so don't be surprised to see more commands added soon.

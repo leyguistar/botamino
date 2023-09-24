@@ -1,0 +1,27 @@
+🅶🅴🅽🅴🆁🅰🅻 🅸🅽🅵🅾🆁🅼🅰🆃🅸🅾🅽
+
+The help command can be used in 2 ways.
+
+You can search information of a command with /help [command]
+
+For example:
+
+/help op
+
+Or you can search information for a group of commands with /help [type]
+
+For example:
+
+/help fun
+
+To see all the bot's commands you can use /commands and to see commands of a specific type /commands [type]
+
+For example:
+
+/commands admin
+
+And finally for more detailed information about the bot you can use the /info command
+
+║▌│█║▌│ █║▌│█│║▌║
+
+★彡Bot hecho por Ley彡★

@@ -1,0 +1,708 @@
+Este juego todavia no esta disponible en esta version
+No esta el juego %s
+Debes esperar %d segundos antes de volver a usar un comando
+Comando en mantenimiento
+Ahora si funciona /musica en privado para saber porque no funcionan los comandos de musica
+No tienes permisos para usar este comando
+Comando deshabilitado previamente por un admin del chat
+Comando deshabilitado por un lider de la comunidad
+Comando deshabilitado por defecto, para habilitarlo un admin del chat tiene que usar el comando /habilitar %s
+Comando %s\op: %d\tipo: %s\\
+Todavia no hay ayuda para este comando
+No hay ayuda para %s
+Debes mencionar a alguien
+Solo puedes mencionar hasta un maximo de 3 usuarios
+Comandos de %s:
+Comandos creados del chat:
+uso: /comandos [tipo]: muestra comandos de algun tipo en especifico
+Tipos de comandos:
+Descripcion: %s
+por %s
+uso: /8ball [algo que quieras preguntar]
+uso: /aceptar [anfitrion|curador|lider]: acepta una peticion de convertirse en: anfitrion, curador, o lider
+anfitrion
+lider
+curador
+No han invitado a este bot a ser anfitrion
+Soy admin 😎
+No han invitado a este bot a ser lider
+Ahora tengo el poder absoluto
+No han invitado a este bot a ser curador
+Mas vale que se porten bien
+Registro de actividad global del bot:
+Mensajes por minuto: %d
+Chats activos en el ultimo minuto: %d
+%s tu horoscopo es:
+uso: /compatibilidad @user pruebas tu compatibilidad con alguien
+uso: /agradecer [si|no]: configura si agradecer o no las donaciones del chat
+uso: /agregar [nombre del comando]: agrega otro comando a un comando ya creado
+No hay un comando con ese nombre
+Falta el mensaje que se va a ejecutar
+Fallo al crear el comando no se pudo guardar la media correpondiente
+Solo se pueden crear comandos que empiezen con / ./ o esten entre *
+Comando %s actualizado
+No le puedes cambiar el alias a un bot
+a mi no
+error guardando
+uso: /alias @user [alias]: le pone un alias a un usuario
+uso: /anime [nombre del anime o id]: busca un anime, puede ser directamente por id (el numero entre parentesis cuando haces una busqueda) o por nombre
+Ahora borrare todas las imagenes que se envien en el chat
+Ahora borrare todos los stickers que se envien en el chat
+uso: /antispam texto [texto]
+Ejemplo: /antispam texto www: borra todos los mensajes que contengan www
+uso: /antispam flood [n]
+Ejemplo: /antispam flood 5: borra cualquier mensaje de texto que se repita mas de 5 veces
+uso: /anuncio [anuncio]: cambia el anuncio del chat
+apagando bot
+uso: /app chat: agrega el chat a tu cuenta de la app
+Chat agregado a la app
+El bot actual de este chat no te pertenece
+no hay tantos audios
+uso: /audio [n]: donde n es un numero
+Selecciona con /audio numero:
+Como este bot es publico todos estan autorizados a usarlo
+Todos estan autorizados a usar el bot
+Personas autorizadas a usar este bot en este chat:
+El bot ya esta autorizado en este chat
+Solo el dueño del bot puede usar este comando
+uso: /autorizar @user: autorizas una persona a usar este bot, en este chat
+%s ya tiene autorizaracion para usar el bot
+Autorizando a %s para poder usar a %s
+no puedes sacar al anfi
+no puedes sacar a un co anfi
+no puedes a ley, ley esta rotisimo
+El bot necesita ser coa para poder sacar usuarios
+uso: /bio [nueva bio]: le cambia la bio al bot
+No pude borrar el mensaje
+Tienes que mencionar el mensaje que quieres borrar
+uso: /borrarN [n]: borra n mensajes del chat
+Tienes que mencionar uno o varios usuarios con @
+Bots disponibles:
+uso: /bug [mensaje de bug]: sirve para informar de algun bug (error) que tuvo el bot
+Bug reportado
+Solo los lideres pueden usar este comando
+uso: /br [nombre]: el comando br (borrar role) sirve para borrar un role de una comunidad
+eliminando el role %s esto podria tomar un rato dependiendo de cuantos usuarios tengan el role
+Role %s eliminado con exito
+No existe un role llamado %s
+Deteniendo traducir
+uso: /carcel @: mete a los usuarios mencionados a la carcel
+uso: /cb /[comando]: agrega un comando para cuando llegue un nuevo usuario.
+Programado %s cuando entre alguien
+uso: /cbr [id]: quita un comando de la bienvenida
+Comandos programados de bienvenida:
+No hay nada programado para bienvenida
+comando eliminado de la bienvenida
+no se encontro ese id
+uso: /cd [desde] [hasta]%s[comando en una linea abajo]
+El comando va en una linea abajo
+comando agregado a donaciones
+uso: /cdr [id]: remueve un comando de las donaciones
+%d. %s%s Desde:%d Hasta:%d%s
+comando removido de donaciones
+uso: /coa [dar|quitar|dame|soltar]
+No se puede usar este comando en este chat
+no tienes permisos para dar coa
+no tienes permisos para quitar coa
+Has soltado tu coa
+Configuracion actual del chat:
+Copiando tu perfil
+Listo copiado, tambien puedes copiar parcialmente con /copiar [nickname|bio|icon]
+uso: /crear [nombre del comando]
+Falta el mensaje que contiene el comando, tiene que ser un comando que empiece con / o con ./
+Ya hay un comando con ese nombre
+Fallo al crear el comando ya hay media con ese nombre
+Comando %s creado
+Creada respuesta para: %s
+%s llena de crema batida a %s
+uso: /crema @: llena de crema batida con mucha azucar a los usuarios mencionados
+%s cumea en %s
+uso: /cum @: cumea a los usuarios mencionados
+link invalido
+Tuve un error con el link
+No es el link de un usuario de amino
+Solicitud enviada a %s, este tiene que aceptar para convertirse en curador
+Error enviandole la solicitud a %s
+uso: /curador @user: vuelve a un user curador, solo funciona si el bot es lider
+uso: /debug [on|off]: muestra los errores del bot en el chat
+no se pueden decir textos de mas de 200 caracteres
+uso: /decir [texto]: envia una nota de voz diciendo el texto
+%s ha dejado %s
+borrado %s
+no se encontro %s
+uso: /delete [nombre]: sirve para borrar un save
+no puedes quitarle el op al anfi
+no puedes quitarle el op a ley, ley esta rotisimo
+Solo el anfi puede sacarle el op a un co anfi
+Descripcion del bot actualizada
+uso: /descripcion [nueva descripcion]: le cambia la descripcion de invocacion al bot
+uso: /deshabilitar [comando|de grupo]: sirve para deshabilitar un comando o un grupo de comandos en este chat
+No puedes deshabilitar permisos
+No existe ese comando
+Deshabilitando el comando %s
+...
+uwu
+uso: /banchat userid razon
+uso: /banuser userid razon
+No.
+No existe esa configuracion
+El bot solo puede ser desautorizado en este chat por el anfitrion del chat
+Este comando solo lo puede usar el dueño del bot
+No hay nadie autorizado para usar el bot, primero autoriza a alguien
+Mi dueño
+uso: /eliminar [/comando|respuesta]: elimina un comando o una respuesta 
+Respuesta eliminada
+uso: /erase [nombre media]: elimina media del chat
+uso: /especial [mensaje]: hace que el bot muestre el mensaje que se indica con los marcos de ese usuario
+uso: /espera [n]: tiempo de espera entre cada comando por usuario
+uso: /estadisticas [n]: muestra constantemente estadisticas del bot
+No hay exiliados
+El fondo podria contener contenido inapropiado por lo que se a omitido
+No puedes poner este fondo
+no se encontro ese fondo
+Este comando no funciona en chats privados ya que no se pueden borrar los mensajes de los demas
+Este comando no funciona si el bot no es coa, anfitrion, o miembro del staff de la comunidad
+uso: /funar @: borra todos los mensajes que envien los usuarios mencionados
+uso: /gif [busqueda] Ejemplo: /gif anime (busca gif de anime)
+uso: /habilitar [comando]: sirve para habilitar un comando que ha sido previamente deshabilitado por un admin
+No existe ese comando
+Para habilitar o deshabilitar un comando en todos los chats de esta comunidad un lider le tiene que escribir por privado al bot /habilitar [comando] o /deshabilitar [comando]
+Este comando en chats publicos solo puede ser habilitado por un lider o curador de la comunidad
+este comando puede no ser apto para todos los chats, usenlo con cuidado cumpliendo siempre con las reglas de la comunidad y de amino
+Comando deshabilitado por un lider de la comunidad
+solo el dueño de este bot puede usar este comando
+mensaje eliminado
+uso: /jugar [juego]: pone un juego
+no puedes sacar al anfi
+no puedes sacar a un co anfi
+no puedes a ley, ley esta rotisimo
+El bot necesita ser coa para poder sacar usuarios
+uso: /kill @: envia un mensaje de muerte para los usuarios con @
+Primero tienes que buscar la cancion por nombre
+Uso: /letra [id|nombre] El id es el numero entre parentesis que aparece despues del resultado de una busqueda
+uso: letraBienvenida [n]: cambia la letra de la bienvenida
+Solo un lider puede usar este comando
+link invalido
+Tuve un error con el link
+No es el link de un perfil de amino
+uso: /lider [@user|userlink]: vuelve a un user lider, solo funciona si el bot es lider
+No tienes ese load
+eto no pude encontrar el anime
+eto... no pude encontrar la lyrica
+error guardando
+uso: /marco [n]: pone un marco para los mensajes del chat
+uso: /marcoE [n]: pone un marco personal para tus mensajes especiales
+Los marcos se envian al privado porque son muchos, por favor escribele al bot /marcos
+uso: /matar @: mata como among us
+uso: /maxstrikes [n]: pone el numero maximo de strikes hasta el ban
+error guardando
+Mensaje de bienvenida guardado
+error guardando
+Mensaje de agradecimiento guardado
+uso: /mensaje [bienvenida|donacion|sticker]: Pone un mensaje de bievenida o de agradecimiento a cuando donan para el chat
+solo el dueño de este bot puede usar este comando
+uso: /nickname [nuevo nombre]: le cambia el nombre al bot
+Le quitas lo divertido a la vida
+solo el dueño de este bot puede usar este comando
+El nombre es muy largo
+Error al cambiar el nombre, hay un bot con ese nombre
+uso: /nombre [nuevo nombre]: le cambia el nombre de invocacion al bot
+Deteniendo traducir
+Modo detectar imagenes nsfw activado   usar /nsfw no para desactivar
+Modo detectar imagenes nsfw desactivado     usar /nsfw si para activar
+detectar imagenes nsfw activado
+detectar imagenes nsfw desactivado
+uso: /nsfw [si|no]: activa o desactiva la deteccion de imagenes inapropiadas
+uso: /otrosBots [si|no]: avisa cuando un usuario a parte de este bot usa mensajes especiales Este comando nacio debido a que hay mas bots de spam que bots de entretenimiento en amino y tiene como objetivo prevenir eso
+Desactivando deteccion de otros bots
+Activando deteccion de otros bots
+no tienes suficientes permisos
+uso: /opinion [tu opinion del bot]: Sirve para dar una opinion sobre el bot
+Gracias por tu opinion
+Solo puedes mencionar hasta un maximo de 3 usuarios
+uso: /patear @: patea a los usuarios mencionados
+No hay chat de voz activo
+uso: /perdonar @: perdona la funa de los usuarios mencionados
+uso: /permisos [comando] [op]: sirve para cambiar el nivel de permisos de un comando, op es un numero entre -1 y 3 siendo -1 deshabilitado
+No puedes cambiar el op de permisos
+Para habilitar o deshabilitar un comando en todos los chats de esta comunidad un lider le tiene que escribir por privado al bot /habilitar [comando] o /deshabilitar [comando]
+Este comando en chats publicos solo puede ser habilitado por un lider o curador de la comunidad
+este comando puede no ser apto para todos los chats, usenlo con cuidado cumpliendo siempre con las reglas de la comunidad y de amino
+No existe ese comando
+El op tiene que estar entre -1 y 2
+uso: /placa [placa del chat]: Guarda la placa del chat
+Error guardando
+No hay chat de voz activo
+Video agregado a la cola
+Los reproductores estan llenos o no hay disponibles.
+Video agregado a la cola
+Error conectando el audio
+link agregado a la cola
+Error conectando el audio
+El maximo de videos en la cola es 3 Para cancelar los que estan en la cola /youtube cancelar
+uso: /play [video]: reproduce un audio de youtube en el chat de voz
+No hay chat de voz activo
+uso: /prefijo [prefijo]: el prefijo que se le pone a los mensajes del bot cada salto de linea si el tipo de mensaje es normal
+No hay chat de voz activo
+No hay nada en la lista de reproduccion
+uso: /random [n1] [n2]: genera un numero random entre n1 y n2
+uso: /remove @user: sirve para sacar a un usuario del chat de voz, por ejemplo el anfitrion en caso de que se quedara dormido
+No se puede repetir algo mas de 100 veces
+Solo el anfi puede repetir algo mas de 10 veces
+No se puede repetir este mensaje ya que puede contener contenido inapropiado
+uso: /repetir [n]: repite el mensaje que esta citando n veces
+uso: /reportar [mensaje]: sirve para reportar cosas que no deberian suceder con el bot al creador del bot, por ejemplo mal uso del mismo o imagenes inapropiadas
+Si se selecciona un mensaje se reporta el mensaje, es preferible reportar el mensaje especifico
+El mal uso de este comando es motivo de ban permanente del bot al usuario (no poder usar mas el bot)
+imagen reportada con exito, no volvera a aparecer hasta que un moderador la revise ^^
+reportado
+reportado
+actualizando chat
+invocando a la gente
+uso /role @user: ves los roles que le han asignado a este usuario en esta comunidad
+uso: /role [nombre] [color] [descripcion]: crea un role en esta comunidad, este comando solo lo pueden usar los lideres
+Falta la descripcion, va en una linea abajo
+falta el color, el color comienza con # y va al final del nombre, ejemplo:
+/role role ejemplo #00ff00
+falta el color, el color comienza con # y va al final del nombre, ejemplo:
+/role role ejemplo #00ff00
+Ya hay un role con ese nombre
+Esta comunidad no tiene roles creados
+uso: /rip @: envia un rip a los usuarios mencionados
+uso: /save [nombre]: guarda el mensaje que estas citando
+mensaje eliminado
+Solo mi dueño puede usar este comando
+uso: /seguir @: sigo a la persona que me indiques
+Este comando solo lo puede usar el staff
+uso: /setrole [nombre] @user: le agrega un role a un usuario
+ejemplo: /unsetrole comite de bienvenida http://aminoapps.com/p/aoisdjoa
+Tienes que mencionar 2 usuarios
+No hay chat de voz activo
+El mensaje no es un sticker
+El sticker tiene que estar en un pack a parte no puede ser de favoritos
+uso: /sticker [nombre]: Guarda un sticker en los saves, el sticker tiene que estar en un pack a parte no puede estar en favoritos
+uso: /sugerencia [mensaje]: Sirve para enviar sugerencias de cosas que te gustarian cambiar, quitar o cambiar al bot. Como por ejemplo mas lolis
+Gracias por tu sugerencia
+El bot de prueba no se pudo unir a la comunidad
+uso: /tipoMensaje [normal|especial]
+uso: /tipoMensaje [normal|especial]: cambia los mensajes del bot
+Comando en mantenimiento
+No puedes traducir los mensajes del bot (ya que traduce infinitamente)
+uso: /transferir [dueño|anfitrion]: transfiere el anfitrion del chat (si el bot es anfitrion) o el dueño del bot
+Falta mencionar el usuario
+Este comando solo lo puede usar el dueño del bot
+Este bot no es anfitrion de este chat
+Transferir el anfitrion solo lo puede hacer op 3
+Hecho
+uso: /unbanuser userid
+uso: /unbanuser userid
+Este comando solo lo puede usar el staff
+uso: /unsetrole [nombre del role] [@user|linkuser]: le quita un role a un usuario
+ejemplo: /unsetrole comite de bienvenida http://aminoapps.com/p/aoisdjoa
+No hay chat de voz activo
+uso: /volumen [0-100]: cambia el volumen de la reproduccion
+el volumen tiene que ser un numero
+uso: /voz [voz]: cambia la voz del bot
+uso: /wikipedia [titulo]  [contenido]: Hace un edit de una busqueda en wikipedia
+Falta el contenido (en una linea debajo del titulo)
+uso: /idioma [en|es]: cambia el idioma de los comandos del bot
+El idioma solo puede ser "es" (español) o "en" (ingles)
+language set to english
+idioma cambiado a español
+El bot ya esta activo
+solo el dueño de este bot puede usar este comando
+uso: /rr [mensaje de respuesta]: elimina una respuesta
+comando en mantenimiento
+uso: /mensajes @user: muestra el numero de mensajes registrados de un usuario
+No hay chat de voz activo
+mmm parece que ese comando todavia no esta listo
+uso: /radio [anime|moe]: pone radio en el chat de voz
+cancelando
+Video agregado a la cola
+Este video es muy largo para una nota de voz
+No se puede prender ya que el bot a sido desactivado de esta comunidad
+Activando bot
+El bot se encuentra actualmente apagado, para activar poner /activar
+Bot autorizado
+Autorizacion invalida
+Primero tienes que elegir un bot, para elegir uno usa /bot
+Bot autorizado
+Autorizacion invalida, este bot es un bot privado y solo puede ser autorizado por su dueño
+Para cambiar de bot usar /bot
+Bot no autorizado en este chat todavia, para autorizarlo un coa o el anfitrion del chat debe poner /autorizar o /authorize
+Oh, parece que no tienes ningun bot de entretenimiento en este chat todavia
+Yo te ayudo ^^ si quieres un bot solo pon /bot para ver los bots y que puedas elegir uno 
+Bot no autorizado en este chat todavia, para autorizarlo el dueño de este bot debe poner /autorizar
+uso: /config [configuracion] [nuevo valor]: cambiar el valor de una configuracion del chat
+No hay media guardada
+Falta seleccionar la imagen
+uso: /media [nombre]: Carga o guarda media del chat
+¿Que quieres guardar?
+Falta el nombre
+el nombre no puede contener / 
+no se pudo saltar la cancion
+Error conectando con el audio
+Desautorizando a %s en este chat
+%s no estaba autorizado de usar a %s
+%s ya no esta autorizado a usar a %s
+se les quiere
+Comandos disponibles segun tu nivel de permisos:
+comando %s eliminado
+No se ha creado un comando llamado %s
+No hay una respuesta para "%s"
+Titulo: %s
+Descripcion: %s
+Episodios: %d
+Empezo el: %s
+Termino el: %s
+imagen no disponible debido que que podria contener contenido inapropiado
+Error buscando el anime
+uso: /temporada [año] [temporada]:\año: [1962-2021]\temporada: [invierno|primavera|verano|otoño]\ ejemplo: /temporada 2021 invierno
+Resultados: 
+Error buscando la temporada
+uso: /emision [dia] :\dia: [lunes|martes|miercoles|jueves|viernes|sabado|domingo]\ejemplo: /emision lunes
+Error buscando la temporada
+Error buscando
+uso: /opening id: los openings del anime id
+uso: /ending id: los openings del anime id
+uso: /manga id: da informacion de el manga con ese id (resultado de la busqueda)
+Capitulos: %d
+Nombre: %s
+%s a entrado %s
+Aqui esta el fondo del chat
+Media del chat:
+Habilitando el comando %s
+El comando %s no esta deshabilitado
+Falta seleccionar la imagen
+Solicitud enviada a %s, este tiene que aceptar para convertirse en lider
+Error enviandole la solicitud a %s
+Solo puedes usar los marcos del 0 al %d
+%s mata a %s
+uso:\/media [nombre] \Carga o guarda media del chat
+Ahora soy %s
+tienes op %d
+%s no es op
+%s es op %d
+Habilitando el comando %s
+Advertencia habilitando el comando %s
+Cambiando el op de %s a %d
+uso: /permitir [links|imagenes|texto|flood]: lo opuesto a /antispam
+Textos bloqueados:
+segundos en responder: 
+Tiempo en conectar %s
+Placa actual del chat: %s
+Placa del chat actualizada: %s
+Lista de reproduccion:
+%d. %s\por: %s\
+Pedido por: %s
+%d. %s %s\por %s\
+Siguiente en reproduccion:
+%s no tiene ningun role en esta comunidad
+En cola:
+uso: /%s [audio]: sirve para buscar audios en youtube
+Roles de %s:
+Roles de esta comunidad:
+Vale sigo a %s
+No existe el role %s
+Asignado el role %s a %s
+Vale te sigo ^^
+Solo sigo a quien mi dueño me indique
+%s no tiene el role %s
+Removido el role %s de %s
+Version del bot: %s
+%s no esta entre las opciones, elija una de las siguientes voces
+voz del bot %s
+voz actual %s
+%s se puso en modo %s
+mensajes de %s: %d
+Tus mensajes: %s
+%d no esta entre las opciones
+1 moneda
+gracias %s por la moneda
+gracias %s por las %s monedas
+%s monedas
+Solo el anfitrion o alguien con op 3 puede activar el bot, tu nivel de op es %d
+apagando bot
+No se puede aplicar este comando sobre esta imagen
+Reproduciendo ahora:
+no pude decir esto lo siento
+No se le pueden dar strikes al anfitrion
+jaja, buen intento
+tuve problemas para decir eso
+tuve problemas para decir eso
+uso: /bot [nombre del bot]: sirve para cambiar de bot
+Ese bot se encuentra muteado
+Ese bot se encuentra baneado de esta comunidad
+Ese bot ya alcanso el maximo de comunidades en amino
+Error invitando el bot a este chat
+El bot fue baneado de este chat por un admin y no puede ser reinvitado
+Ese bot se encuentra muteado
+El bot no fue capas de unirse al chat
+Error uniendo el bot a la comunidad
+Hola ^^
+Este bot no es publico
+no se encontraron resultados
+Error enviando audio, audio no soportado por amino
+Ocurrio un error intentando obtener el audio por favor elija otro
+Error uniendo el bot a la comunidad
+El bot alcanso el numero maximo de comunidades en amino
+Error invitando el bot a el chat
+El bot no fue capas de unirse al chat
+Imagen omitida porque puede contener contenido inapropiado
+guardado como sticker
+Solo se puede guardar imagenes, gifs o audios
+mensaje guardado
+No puedo guardar eso
+Error, en chats publicos solo el anfitrion o un coanfitrion puede iniciar live
+Error, no pude iniciar el chat de voz
+Advertencia link de otra comunidad, enviando el bot a esa comunidad
+Solo ley o el anfi del chat destino puede meter al bot en el chat destino
+uso: /tp [link del chat]: envia el bot a otro chat
+%s fue baneado por strikes
+%s tienes un strike %d mas y seras baneado
+%s tienes %d strikes %d mas y seras baneado
+Yo solo sirvo para poner otros bots
+No hay un bot llamado %s
+%d. %s un mensaje
+%d. %s %d mensajes
+ingrese un numero para elegir, c para cancelar
+no hay informacion respecto a %s
+Informacion de usuario:
+Nombre: %s
+Seguidores: %s
+Siguiendo: %s
+Nivel: %s
+Reputacion: %s
+Dias en la comunidad: %d
+Mensajes totales en el chat: %d
+Mensajes en la comunidad %d
+Borrando mensajes de %s
+Borrando stickers e imagenes
+Borrando ultimos %d mensajes
+guardado %s
+%s es coa ahora
+error agregando coa
+Bienvenid@
+Hola
+Adios
+¡Hola!\Soy un bot y me han tepeado a este chat (solo el anfitrion deberia poder tepearme), para ayuda del bot /ayuda 
+Aqui esta, cuidala bien
+Solo los mas puros de corazon pueden ver esta imagen
+Resultado de la busqueda de %s
+Has sido baneado de usar este bot
+Razon: %s
+Si quieres saber porque preguntale al creador
+Bienvenido lider, desde aqui puedes configurar comandos especiales del bot en la comunidad, si quieres ver cuales son esos comandos pon /lider
+Hola ^^
+Soy un bot ¿Quieres ver mis comandos? usa /start
+Hay varias versiones premium
+Este comando solo lo puede usar mi dueño
+link invalido
+Tuve un error con el link
+No es el link de un perfil de amino
+Falta el mensaje
+Necesito verificacion antes de comentar este muro
+No pude comentar ese muro
+Listo ya te puse el mensaje en tu muro ^^
+
+Este comando sirve para asociar tu cuenta de discord con amino, para hacerlo escribele a Shita#7781 en discord /amino 
+Codigo incorrecto
+El codigo ha expirado
+Este comando solo lo puede usar mi dueño
+uso: /crear [mensaje]\[respuesta en una linea abajo]
+Falta la respuesta al mensaje, va en una linea abajo
+uso: /aceptar [curador|lider]: acepta una peticion de convertirse en: curador, o lider
+No han invitado a este bot a ser lider
+Ahora tengo el poder absoluto
+No han invitado a este bot a ser curador
+Mas vale que se porten bien
+No eres lider
+Error, tienes que ser lider para configurar este comando
+Este comando solo lo puede usar el dueño del bot
+Tienes que ser lider para activar o desactivar la bienvenida en esta comunidad
+uso: /recibir [si|no]: configura si el bot pone un mensaje en el muro de los nuevos o no
+Primero tienes que configurar un mensaje de bienvenida escribiendo /mensaje muro\[el mensaje]
+Falta asignarle un bot a esta comunidad, con /setbot, este sera el bot que de las bienvenidas
+Ya estoy recibiendo a los nuevos
+Vale empezare a recibir a los nuevos
+Bueno dejo de recibir a los nuevos
+uso: /recibir [si|no]: configura si el bot pone un mensaje en el muro de los nuevos o no
+Comunidad de ley http://aminoapps.com/c/leyworld
+Entra ¿Que estas esperando
+Este comando solo lo puede usar el dueño del bot
+Tienes que ser lider para poder usar este comando
+uso: /mensaje [muro|privado|chat]\[mensaje]: configura el mensaje del bot
+No hay mensaje actual
+uso: /mensaje muro       [mensaje en las lineas de abajo]
+Mensaje de muro cambiado
+No hay mensaje actual
+uso: /mensaje privado     [mensaje en las lineas de abajo]
+Mensaje cambiado
+uso: /mensaje [muro|privado]        [mensaje]: configura el mensaje del bot
+Este comando solo lo puede usar el dueño de este bot
+Tienes que ser lider para cambiar el bot oficial de esta comunidad
+Ahora soy el bot de la comunidad
+uso: /liberar [link del chat]: quita el modo visualizacion de un chat donde eres por lo menos op 2
+no tienes permisos en este chat
+no tienes etiquetas
+Para agregar una tag /tag !tag:descripcion         Ejemplo /tag !personalidad:muy fria
+uso: /habilitar [comando]: habilita un comando en esta comunidad, comando exclusivo de lideres
+uso: /deshabilitar [comando]: habilita un comando en esta comunidad, comando exclusivo de lideres
+Solo un lider puede deshabilitar un comando para toda la comunidad
+Soy un bot privado y solo sigo a quien mi dueño me dice
+El bot ha sido desactivado de esa comunidad
+Para dudas de porque contactar al creador
+Actualmente no disponible
+Ve a el siguiente link para logearte en la pagina de leybot
+Este comando solo lo puede usar el dueño de este bot
+uso: /abandonar confirmar: hace que el bot abandone la comunidad
+No puedes sacar al bot de leyworld
+Dejando esta comunidad, cualquier cosa escribele a ley
+Actualmente no disponible
+Para descargar la app\/app link\Para un codigo de acceso\/app code
+link de la app: leyguistar.com/leybot
+Introduce el siguiente codigo en la app para logearte
+Codigo valido durante una hora, o hasta que solicites otro
+link detectado
+link invalido
+Si quieres tener un bot como este en tu chat...
+Si quieres usar un bot gratis puedes escribirle /start a cualquiera de los siguientes bots
+Para la version informacion de la version premium escribeme /premium
+No se de que es este link
+jum
+jum
+jum
+Este bot no pertenece a esta comunidad. Puedes usar uno de los siguientes bots o pedir mas en leyworld.
+No pude unirme a la comunidad
+Ya alcanse el numero maximo de comunidades en amino, prueba con otro bot
+Me pude unir exitosamente a la comunidad ^^
+jum
+jum
+jum
+El bot ha sido desactivado de esa comunidad
+Para dudas de porque contactar al creador
+Este bot no pertenece a esa comunidad pero puedes usar uno de los siguientes. Si quieres mas preguntale al staff en leyworld
+No pude unirme a la comunidad
+Ya alcanse el numero maximo de comunidades en amino, prueba con otro bot
+Error ingresando a la comunidad ¿Es una comunidad privada? Si ese es el caso pasame un link de invitacion primero
+No soy parte de esa comunidad, para unirme pasame un link de invitacion
+Me parece que estoy banead@ de esa comunidad
+Ocurrio un error y no fui capaz de unirme a ese chat
+El bot fue enviado a el chat
+Tienes que ser anfi de ese chat para meter al bot en el chat destino
+no es un link de chat
+¿uh? No te entendi si quieres mira mis comandos con /ayuda
+ya existe una respuesta para %s
+creada respuesta para: %s
+Este chat fue baneado de usar este bot
+Vinculado exitosamente con %s
+Configuracion de la comunidad
+Bot actual de la comunidad: %s
+Bot actual de la comunidad: No asignado
+Recibir a los nuevos:
+No existe el comando %s
+habilitando el comando %s en esta comunidad
+Solo un lider puede habilitar un comando para toda la comunidad
+deshabilitando el comando %s en esta comunidad
+Ya estoy en esa comunidad. Este es mi link para que me encuentres ndc://x%d/user-profile/%s. Ya te sigo.
+Este es mi link para que me encuentres ndc://x%d/user-profile/%s, ya te sigo.
+Bots en esta comunidad:
+Este bot no pertenece a esta comunidad, Si quieres adquirir otro bot pregunta en leyworld
+%s revisa tu privado para ver los marcos
+Puedes donarme a traves de paypal:
+Puedes donarme en ko-fi
+Advertencia, se registro un mensaje especial de otro usuario a parte de este bot podria ser spam, para desactivar la deteccion de otros bots poner /otrosBots si
+Top diario:
+Top semanal:
+Top mensual:
+Top mensajes:
+Ha recibido:\%d chocolates\%d flores\%d besos\%d cariños\\
+Ha tenido:\%d citas\%d novios/novias\%d matrimonios\\
+uso: /asteriscos [si|no]: activa o desactiva los mensajes con asterisco en el chat.
+Desactivando los mensajes asterisco
+Activando los mensajes asterisco
+uso: /burbuja [todos](seleccionas un mensaje): seleccionas un mensaje al cual le quieras copiar la burbuja
+Error cambiando la burbuja
+¿Luzco mejor asi?
+¿Te gusto mas ahora?
+uso: /copiarmarco @user: copio el marco de un usuario
+¿Como me veo?
+Error, no pude ponerme ese marco
+Chats reproduciendo musica: %d
+mensaje de despedida guardado
+Error revisando la reproduccion
+Para ver los comandos de un tipo en especifico usar\/comandos [tipo]\\Ejemplo: /comandos interaccion
+%s Te envie todos mis comandos al privado
+%s Si quieres ver todos mis privados abreme privado y vuelve a pedirme los comandos.
+%s te envie todos mis audios al privado
+%s intente enviarte mis audios al privado pero no pude
+volumen actualizado
+Mensaje de sticker guardado
+No hay mensaje usar /mensaje sticker para cambiarlo
+uso: /mensaje sticker [el mensaje]: el mensaje puede tener "[nick]" el cual se sustituira por el nombre del usuario que entre
+uso: /sonidos [si|no]: activa o desactiva los sonidos de voz que suenan en llamada.
+Desactivando los sonidos en llamadas
+Activando los sonidos en llamadas
+Tipo: %s
+Habilidades: %s
+Peso: %s
+Altura: %s
+Especies: %s
+Experiencia base: %s
+uso: /pokedex [pokemon]
+uso: /todos [si|no]
+Activando @todos
+desactivando @todos
+el numero tiene que ser positivo
+permitiendo imagenes
+permitiendo stickers
+permitiendo flood
+permitiendo texto
+desactivando antispam
+Debes esperar %d segundos antes de volver a usar este comando
+Primero tienes que pedir una waifu o un husbando
+uso: /like: le das corazon a una waifu o husbando
+uso: /trash: Indicas que una waifu o husbando es basura
+Indicaste que te gusta %s
+Indicaste que %s te parece basura
+Ya votaste por %s
+Ya no te gusta %s
+No has dado like a %s
+No has indicado que %s te parece basura
+Ya no te parece basura %s
+Tu harem esta vacio para llenarlo reclama waifus con /reclamar
+Puedes reclamar %d waifus, primero busca.
+No puedes reclamar mas waifus.
+Ahora %s forma parte de tu harem. Puedes ver tu harem con /harem
+Ya tienes a %s
+No tienes un harem tan grande todavia
+uso: /buscarwaifu [nombre]: buscas una waifu por nombre.
+uso: /buscarhusbando [nombre]: buscas un husbando por nombre.
+sin resultados
+revisa priv
+jaja si claro
+uso: /licencia [de lo que quieras tu licencia]
+Preparando tu licencia...
+Aqui tienes
+uso: /bienvenidas [si|no]: activa o desactiva las bienvenidas automaticas.
+Desactivando las bienvenidas
+Activando las bienvenidas
+Borrare los links de amino que sean enviados a este chat
+permitiendo el envio de links
+No estoy borrando los links
+Borrare el %d mensaje repetido
+Bots en esta comunidad:
+Bots disponibles:
+Deshabilitando todos los comandos de tipo %s
+Comandos deshabilitados:
+No tienes permisos para poner este modo
+simpeando:
+Solo el usuario que hizo este comando puede cambiarlo
+Comando guardado
+Tus tags:
+uso: /rtag [numero]: para ver tus tags pon /tag
+No tienes esa tag
+Sacando a los invitados de este chat
+Removidos %d usuarios
+sacando del chat todos los que tienen menos de %d mensajes registrados
+sacando del chat todos los que tienen menos de %d de reputacion

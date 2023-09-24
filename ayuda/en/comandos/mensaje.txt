@@ -1,0 +1,8 @@
+This command is used to change the chat welcome message or the tips message
+usage:
+/message welcome [message]
+example:
+/message welcome everyone to this chat respect the rules and have fun
+/message tips [message]
+example:
+/message tips thanks for the coins

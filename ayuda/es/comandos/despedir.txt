@@ -1,0 +1,4 @@
+Sirve para lanzar un mensaje de despedida general o a un usuario en especifico
+usos:
+/despedir
+/despedir @user

@@ -1,0 +1,3 @@
+Este comando sirve para lanzar la bienvenida, ya sea general o a alguien
+/recibir: lanza la bienvenida del chat
+/recibir @user: lanza la bienvenida personal de un usuario

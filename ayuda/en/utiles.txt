@@ -1,0 +1,36 @@
+antispam: various antispam mechanisms.
+announcement: change the announcement of the chat.
+bug: report a bug to the bot creator.
+cancel: used to cancel. It can be used with various commands.
+cohosts: shows the chat co-hosts.
+say: makes the bot say something.
+deletesave: delete something from someone saves.
+bye: say bye to a user or send a general goodbye.
+discord: connect this chat with a discord server.
+available: shows available commands according to your permission level.
+erase: delete some of the chat media.
+special: send a special message.
+banned: shows the banned users from the chat.
+background: send the background of the chat.
+backgrounds: shows available backgrounds.
+time: shows the time in different countries.
+load: load a save.
+messageframes: displays the available messageframes.
+media: displays the media.
+ndclink: create a special link for this chat. It works even in private.
+noalias: removes your alias.
+notraslate: disable automatic translation.
+ping: respond with pong. Shows the response time of the bot.
+random: sends a random number.
+welcome: sends a welcome message.
+recover: recover deleted messages.
+repeat: repeat a message multiple times.
+report: used to report inappropriate use of the bot.
+invoke: summon the cohosts and the chat host.
+save: save a message.
+sticker: save a sticker.
+top: shows the top of messages sent in the chat.
+translate: translate a message, or a user.
+uptime: shows the time since the last reboot.
+version: shows the version of the bot.
+allow: disable antispam.

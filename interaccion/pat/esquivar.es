@@ -1,0 +1,2 @@
+Desafortunadamente %s no quiere que %s le de mimos por lo que decide morir antes que eso /morir
+%s modo matrix flash superman se mueve a la velocidad de la luz entre dimensiones para evitar que %s le de pats /desaparecer

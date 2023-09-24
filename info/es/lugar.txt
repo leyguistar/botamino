@@ -1,0 +1,6 @@
+Puedes crear un lugar de 2 maneras.
+1. Con una wiki: /lugar [link de la wiki]. Entonces el nombre del lugar sera el nombre de la wiki y la imagen sera la portada de la wiki.
+2. Con mensajes.
+2.1 Primero envias la imagen del lugar
+2.2 Despues citas la imagen en tu mensaje
+2.3 /lugar crear [nombre del lugar]

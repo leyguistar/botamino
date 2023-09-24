@@ -1,0 +1,3 @@
+carcel: mete a alguien en la carcel.
+kill: mata a alguien como en minecraft.
+wikipedia: envia un edit de una busqueda en wikipedia.

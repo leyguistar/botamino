@@ -1,0 +1,14 @@
+[cu]Private chat help:
+[c]For commands:
+/commands
+
+[cu]For taking this bot to a community or a chat:
+[c]send it the link of the community or the link of the chat, you can also tell me to follow you with /followme
+
+[cu]For info about the bot:
+/info
+
+[ui]Where do this bot came from and where I can get more?
+put /leyworld
+
+[c]★彡Bot hecho por Ley彡★

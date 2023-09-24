@@ -1,0 +1,16 @@
+anime: search information about an anime.
+girl: search an anime girl.
+danbooru: search in danbooru.
+broadcasting: shows the anime broadcast according to the day.
+endings: search the endings of an anime.
+gif: search a gif.
+loli: search a loli.
+animelyrics: search the lyrics in romanji of an anime song.
+lyrics: search the lyrics of a song.
+manga: search information about a manga.
+cat: look for a cat.
+moe: look for something moe.
+openings: search the openings of an anime.
+character: search an anime character.
+season: shows animes from an anime season.
+youtube: search for a video on youtube.

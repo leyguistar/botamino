@@ -1,0 +1,4 @@
+Sirve para cargar algo guardado y ver las cosas que tienes guardadas
+usos:
+/load [nombre]: carga lo que se haya guardado con nombre
+/load: muestra las cosas que tienes guardadas

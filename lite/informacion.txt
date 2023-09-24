@@ -1,0 +1,4 @@
+Leybot es un bot de entretenimiento para chats de amino.
+Tiene varios comandos que se pueden revisar con /comandos.
+Para hacerlo funcionar en un chat es tan facil como invitarlo al chat y ya empieza a funcionar.
+Cuando ya no lo quieren en hechar pueden sacarlo, banearlo o poner /apagar que automaticamente hace que el bot deje el chat

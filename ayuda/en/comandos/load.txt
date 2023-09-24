@@ -1,0 +1,4 @@
+Used to load something saved and see the things you have saved
+usage:
+/load [name]: loads what has been saved with name
+/load: shows the things you have saved

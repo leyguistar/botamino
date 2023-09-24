@@ -1,0 +1,1 @@
+%s no deja que %s le de nalgadas y en cambio le da unas /nalgada

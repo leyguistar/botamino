@@ -1,0 +1,4 @@
+This command is used to delete the messages that a certain user sent (for example, a troll)
+To use /deleteU @user
+Example:
+/deleteU @pablo

@@ -1,0 +1,13 @@
+🇮 🇳 🇫 🇴 🇷 🇲 🇦 🇨 🇮 🇴 🇳 
+
+🇬 🇪 🇳 🇪 🇷 🇦 🇱
+
+/ayuda [comando]: Desplegara ayuda sobre un comando en especifico
+
+ᴇᴊᴇᴍᴘʟᴏs:
+
+/ayuda juegos
+
+║▌│█║▌│ █║▌│█│║▌║
+
+★彡Bot hecho por Ley彡★

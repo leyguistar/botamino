@@ -1,0 +1,14 @@
+[Unit]
+Description=Nudedetect
+
+Requires=network.target
+
+[Service]
+Type=simple
+ExecStart=/botamino/nudedetect.py 
+Restart=on-failure
+RestartSec=10
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,22 @@
+Bienvenido a trivia
+Juego propuesto por kenshin
+Este juego tiene 2 modalidades las cuales puede eligir cualquiera de los anfis.
+En el modo libre cualquiera puede contestar una pregunta y el modo por turnos, para desactivar o activar el modo libre se usa 
+/libre on activa modo libre
+/libre off desactiva el modo libre
+Para que las respuestas se envien una por una 
+/junto on respuestas en un mismo mensaje
+/junto off respuestas en mensajes separados
+Para entrar al juego usar /entrar
+Para salir /dejar
+Para que un anfi saque a alguien /sacar @
+Para mostrar Puntuaciones actuales /puntos
+Para cancelar /cancelar (muestra las puntuaciones hasta ese momento)
+Para pasar (nadie gana punto) /pasar
+Para ver los jugadores /jugadores
+Para unirte a un equipo /equipo [nombre del equipo]
+Para ganar debes responder correctamente las preguntas
+Para empezar /start
+Para poner un limite de tiempo por turno /limite [n] donde n es la cantidad de segundos
+/dificultad [1|2|3|facil|normal|dificil]: pone nivel de dificultad
+/start n: inicia el juego con un maximo de n preguntas (maximo 50) (si no se especifica son 10)

@@ -1,0 +1,12 @@
+[cui]Comandos para todos
+
+Unirse al juego: /entrar
+Salir del juego: /salir
+Ver jugadores: /jugadores
+
+[cui]Comandos de admin
+
+Saltar un turno: /pasar o /saltar
+Poner limite de tiempo por turno: /limite [segundos]
+Iniciar: /start
+Cancelar o terminar: /cancelar

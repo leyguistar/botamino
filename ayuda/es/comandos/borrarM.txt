@@ -1,0 +1,2 @@
+Este comando sirve para borrar las imagenes, gifs, stickers y todos los contenidos multimedia que se han enviado recientemente
+Por ejemplo si han enviado muchas imagenes inadecuadas este comando salva

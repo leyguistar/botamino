@@ -1,0 +1,9 @@
+Ver puntos: /p
+
+Ver equipos: /equipos
+
+Elegir nivel: /dificultad
+
+Cantidad de animes: /start [numero de animes]
+
+Hacer un equipo/unirse a un equipo: /equipo

@@ -1,0 +1,3 @@
+[c]Bienvenido a adivina el anime.
+[c]Una vez iniciado apareceran varias imagenes.
+[c]Para ganar debes decir el nombre del anime de la imagen

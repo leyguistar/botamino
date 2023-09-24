@@ -1,0 +1,5 @@
+curator: make a user Curator.
+leader: make a user leader.
+role: create a role.
+setrole: assigns a role to a user.
+unsetrole: removes a role from a user. 

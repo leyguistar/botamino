@@ -1,0 +1,2 @@
+This command is used to delete the images, gifs, stickers and all the multimedia contents that have been sent recently
+For example if they have sent many inappropriate images this command is very useful

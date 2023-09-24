@@ -1,0 +1,3 @@
+El bot es un proyecto independiente hecho por ley.
+Este proyecto tiene como objetivo hacer amino mas entretenido agregando nuevas opciones a los chats.
+Para cancelar los mensajes /salir

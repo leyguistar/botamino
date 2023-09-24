@@ -1,0 +1,4 @@
+null 0
+burbuja 1
+sticker 2
+comando 3

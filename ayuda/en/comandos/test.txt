@@ -1,0 +1,3 @@
+This command is used to test different things
+/test join: make a user join the conversation
+There are no more commands yet

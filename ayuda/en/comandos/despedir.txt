@@ -1,0 +1,4 @@
+It is used to launch a general farewell message or to a specific user
+usage:
+/bye
+/bye @user

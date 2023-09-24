@@ -1,0 +1,13 @@
+Tipos de juegos (pueden haber varias versiones de un juego):
+
+Verdad o reto (vor): Escoge entre varias preguntas o retos a cada uno de los jugadores que desee participar.
+
+Adivina la pelicula con emojis (pelis): Apareceran unas imagenes con emojis y los participantes tienen que decir de que pelicula son.
+
+Adivina el personaje o el anime (apa): Apareceran imagenes de un anime o un personaje y segun se indique tienen que responder ya sea el nombre del personaje o del anime.
+
+Adivina el anime (aa): Apareceran imagenes de un anime y tienen que anime es.
+
+Mafia (mafia): El juego de la mafia o el asesino, donde cada jugador adquiere un rol.
+
+Trivia (trivia): Aparecen varias preguntas de varios temas y tienes que responder correctamente.

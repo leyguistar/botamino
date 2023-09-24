@@ -1,0 +1,3 @@
+El bot trae varios juegos hechos para jugar con varias personas.
+solo se puede jugar un juego a la vez
+usar /juegos para ver los juegos

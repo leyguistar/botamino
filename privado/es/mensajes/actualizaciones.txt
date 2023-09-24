@@ -1,0 +1,3 @@
+[c]El bot es un proyecto en constante desarrollo por lo que constantemente se esta actualizando.
+
+Las actualizaciones tanto de comando, como de actividad, como de bots, son publicadas en la comunidad ley world.

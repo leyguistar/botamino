@@ -1,0 +1,11 @@
+[ci]¿Porque donar?
+Pues nada es gratis, ademas del esfuerzo y el tiempo que se le tiene que poner a un bot, que parece no valer nada estos dias. Tambien requiere de un servidor potente para poder funcionar rapido y todo el tiempo.
+Por ejemplo los bots de discord funcionan gracias a muchas personas que donan para ayudar a que siga funcionando ¿No me crees? aqui te dejo el link de un bot que probablemente hayas usado en discord, nekotina https://www.patreon.com/nekotina
+
+[ci]¿El bot dejo de funcionar? ¿Va lento?
+Muchas veces esto se debe a una sobrecarga de los servidores, la solucion a esto muchas veces requiere dinero. Hay veces que incluso algunos comandos son deshabilitados para evitar la sobrecarga del servido, como por ejemplo juegos. Aqui te dejo un video por si quieres saber mas al respecto:
+https://www.youtube.com/watch?v=YNDZZmq3t8U
+
+[ci]En ves de insultar al bot cuando va lento o no funciona como hacen casi todos los usuarios ¿Porque no ayudas a mejorarlo donando?
+
+¿No puedes donar pero aun asi quieres ayudar? ¡Ven a ley world! Aqui puedes ayudar de varias maneras distantas para mantener el bot en amino y ayudarlo a crecer

@@ -1,0 +1,5 @@
+These commands are used to react and interact with others.
+The names are quite descriptive on their own.
+Some examples:
+correspond: it serves to correspond an interaction that they have made about you.
+dodge: used to dodge an interaction that they have made with you.

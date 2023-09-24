@@ -1,0 +1,9 @@
+Tienda del bot
+Comandos
+/tienda ayuda
+/tienda stickers
+/tienda burbujas
+/tienda puntos
+/tienda comprar
+/tienda comandos
+/tienda todo

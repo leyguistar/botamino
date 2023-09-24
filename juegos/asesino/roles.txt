@@ -1,0 +1,6 @@
+Roles
+Mafia: los que forman parte de la mafia durante la noche tienen que elegir matar a una persona.
+Civil: los civiles durante el dia pueden votar para sacrificar a alguien
+Doctor: El doctor durante la noche puede elegir salvar a alguien y si es la persona que la mafia intento matar se salva
+Detective: El detective durante la noche investiga a una persona para saber si es parte de la mafia o no.
+Amante: Durante la noche va a la casa de alguien a ofrecerle servicios especiales. Si esta persona es visitada por la mafia muere en su lugar.
